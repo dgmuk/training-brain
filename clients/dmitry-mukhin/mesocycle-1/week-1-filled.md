@@ -5,7 +5,7 @@ mesocycle: 1
 week: 1
 period_start: 2026-05-19
 period_end: 2026-05-25
-type: standard
+type: standard.
 ---
 # Неделя 1
 
