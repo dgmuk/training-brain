@@ -32,45 +32,83 @@
 
 ## 🛡️ Грудные
 
-### Жим штанги лёжа
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
-Техника: локти под 45 градусов к корпусу, лопатки сведены, без отбива от груди.
+### Жим в тренажере узким нейтральным хватом
+[Видео](https://youtube.com/shorts/NAFGiANVn9U)
 
-### Жим штанги лёжа на наклонной (30-45°)
-[Видео](https://...)
+### Жим штанги лежа в тренажере Смита
+[Видео](https://youtube.com/shorts/tRNmwbzonoQ)
 
-### Жим гантелей лёжа
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
-Техника: ладони друг к другу или нейтральный хват, локти под 45 градусов.
+### Жим штанги в тренажере Смита на наклонной скамье
+[Видео](https://youtube.com/shorts/RXQtZuY84fI)
 
-### Жим гантелей на наклонной скамье
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
+### Жим от груди в рычажном тренажере сидя
+[Видео](https://youtube.com/shorts/SAPyFfRaUfc)
 
-### Жим в Хаммере
-[Видео](https://...)
+### Жим гантелей лежа на горизонтальной скамье
+[Видео](https://youtube.com/shorts/A223w-ejUus)
 
-### Разводка гантелей лёжа
-[Видео](https://...)
-Техника: лёгкий сгиб в локте сохраняется на всём движении, растяжение в нижней точке.
+### Жим гантелей лежа на наклонной скамье
+[Видео](https://youtube.com/shorts/Vr6g2jgcB7k)
 
-### Сведения в кроссовере (Пек-дек)
-[Видео](https://...)
+### Жим штанги на скамье с отрицательным наклоном
+[Видео](https://youtube.com/shorts/GF0nrUBdwcE)
 
-### Отжимания от пола
-[Видео](https://...)
+### Жим сидя в блочном тренажере на грудь
+[Видео](https://youtube.com/shorts/unf8GIZxeDI)
 
-### Отжимания узким хватом
-[Видео](https://...)
+### Жим в кроссовере стоя от среднего блока
+[Видео](https://youtube.com/shorts/KPWewpRojvI)
 
-### Отжимания с весом на спине
-[Видео](https://...)
+### Жим штанги лежа на горизонтальной скамье
+[Видео](https://youtube.com/shorts/eG0uuZ_U4Jk)
 
-### Отжимания на брусьях
-[Видео](https://...)
-Техника: наклон корпуса вперёд для акцента на грудь, вертикально для акцента на трицепс.
+### Жим штанги лежа на наклонной скамье
+[Видео](https://youtube.com/shorts/It_hk_ewMYM)
 
-### Отжимания с поднятыми ногами
-[Видео](https://...)
+### Отжимания от перекладины
+[Видео](https://youtube.com/shorts/qbkqYVsGxYE)
+
+### Отжимания в подвесных петлях TRX
+[Видео](https://youtube.com/shorts/EpcBXICIPPY)
+
+### Отжимания на брусьях с акцентом на грудные
+[Видео](https://youtube.com/shorts/bQvmkfWuMXM)
+
+### Отжимания на брусьях в гравитроне
+[Видео](https://youtube.com/shorts/JYphIf5fVCs)
+
+### Отжимания от пола на рукоятках
+[Видео](https://youtube.com/shorts/ucpgoQFQHfc)
+
+### Отжимания в тренажере сидя
+[Видео](https://youtube.com/shorts/dV2niCwxOGw)
+
+### Пуловер с верхнего блока лежа на скамье
+[Видео](https://youtube.com/shorts/5GAY5iFjBro)
+
+### Разведение рук с гантелями лёжа
+[Видео](https://youtube.com/shorts/1qH6hKtpYkk)
+
+### Разведение рук с гантелями лежа 30-45 гр
+[Видео](https://youtube.com/shorts/RYntxxivd0I)
+
+### Сведение рук в кроссовере лежа на скамье
+[Видео](https://youtube.com/shorts/erYajT9Njj4)
+
+### Сведение рук в кроссовере с верхних блоков
+[Видео](https://youtube.com/shorts/1WuBKiU9wk4)
+
+### Сведение рук в кроссовере с нижних блоков
+[Видео](https://youtube.com/shorts/hZQGhAsHBPk)
+
+### Сведение рук в кроссовере сидя на скамье
+[Видео](https://youtube.com/shorts/OWeXKfqSoNo)
+
+### Сведение рук в кроссовере стоя (со средних блоков)
+[Видео](https://youtube.com/shorts/qPApHqhWtu0)
+
+### Сведение рук в тренажере «Бабочка» (Pec-Deck)
+[Видео](https://youtube.com/shorts/KmApvQRN0-w)
 
 ---
 
@@ -214,84 +252,143 @@
 
 ## 🏋️ Плечи
 
-### Армейский жим стоя
-[Видео](https://...)
+### 
+[Видео]()
 
-### Жим штанги сидя
-[Видео](https://...)
+### 
+[Видео]()
 
-### Жим гантелей сидя
-[Видео](https://...)
+### 
+[Видео]()
 
-### Жим гантелей стоя
-[Видео](https://...)
+### 
+[Видео]()
 
-### Жим Арнольда
-[Видео](https://...)
+### 
+[Видео]()
 
-### Махи гантелей в стороны
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
-Техника: лёгкий сгиб в локте, мизинец чуть выше большого пальца на пике.
+### 
+[Видео]()
 
-### Махи в наклоне
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
+### 
+[Видео]()
 
-### Обратные разводки лёжа на животе
-[Видео](https://...)
+### 
+[Видео]()
 
-### Face Pulls
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
-Техника: тянуть к уровню лба, кулаки разводить в стороны на пике.
+### 
+[Видео]()
 
-### Тяга к подбородку
-[Видео](https://...)
+
+### 
+[Видео]()
 
 ---
 
 ## 💪 Бицепс
 
-### Сгибания со штангой стоя
-[Видео](https://...)
+### Сгибание руки с гантелью на скамье Скотта
+[Видео](https://youtube.com/shorts/wn6k9jbRFO4?feature=share)
 
-### Сгибания с гантелями стоя
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
+### Концентрированное сгибание руки с гантелью сидя
+[Видео](https://youtube.com/shorts/k40reCD113s?feature=share)
 
-### Молотковые сгибания
-[Видео](https://...)
+### Сгибание рук на бицепс в рычажном тренажере сидя
+[Видео](https://youtube.com/shorts/0jPRbriDwdY?feature=share)
 
-### Концентрированные сгибания
-[Видео](https://...)
+### Сгибание кистей с гантелями
+[Видео](https://youtube.com/shorts/leDSApzP5nQ?feature=share)
 
-### Сгибания на скамье Скотта
-[Видео](https://...)
+### Сгибание кистей со штангой
+[Видео](https://youtube.com/shorts/tvA4U2SQ9P4?feature=share)
 
-### Сгибания на блоке
-[Видео](https://...)
+### Сгибание рук с EZ грифом обратным хватом
+[Видео](https://youtube.com/shorts/3bJ8LHMMD-8?feature=share)
+
+### Сгибание рук с EZ грифом широким хватом
+[Видео](https://youtube.com/shorts/r17vxO5hJRA?feature=share)
+
+### Сгибание рук с EZ грифом узким хватом
+[Видео](https://youtube.com/shorts/4nmz-0HivdE?feature=share)
+
+### Сгибание рук с верхнего блока с канатной рукоятью
+[Видео](https://youtube.com/shorts/69V6zjagzpc?feature=share)
+
+### Подъём штанги (грифа) на бицепс стоя
+[Видео](https://youtube.com/shorts/t64055G6htw?feature=share)
+
+### Сгибание рук на нижнем блоке с W образной рукоятью
+[Видео](https://youtube.com/shorts/iOmX7DV2e_U?feature=share)
+
+### Сгибание рук на скамье Скотта в нижнем блоке
+[Видео](https://youtube.com/shorts/nOB-n81xz3o?feature=share)
+
+### Сгибание рук на нижнем блоке с канатной рукоятью
+[Видео](https://youtube.com/shorts/V0Boiizgfe0?feature=share)
+
+### Сгибание рук со штангой стоя
+[Видео](https://youtube.com/shorts/ZlfY8AQ69QM?feature=share)
+
+### Сгибание рук с эспандером
+[Видео](https://youtube.com/shorts/bYrcRhDI67c?feature=share)
+
+### Сгибание руки на нижнем блоке
+[Видео](https://youtube.com/shorts/Ftoic_XQE94?feature=share)
+
+### Сгибание руки на нижнем блоке в наклоне
+[Видео](https://youtube.com/shorts/d-Rd8T1ln9M)
+
+### Сгибание рук со штангой EZ грифом на скамье
+[Видео](https://youtube.com/shorts/D9p-k8tglQA)
+
+### Одновременное сгибание рук с гантелями стоя
+[Видео](https://youtube.com/shorts/Ma-X0XM0Ks8)
+
+### Сгибание рук с гантелями сидя хватом «Молот»
+[Видео](https://youtube.com/shorts/mX5RdEny6OQ)
+
+### Одновременное сгибание рук с гантелями сидя
+[Видео](https://youtube.com/shorts/B03gCnii0EQ)
+
+### Попеременное сгибание рук с гантелями сидя
+[Видео](https://youtube.com/shorts/bkpXtcEnMCc)
+
+### Одновременное сгибание рук стоя хватом Молот
+[Видео](https://youtube.com/shorts/8Sf1qmVPpgY)
+
+### Одновременное сгибание рук с гантелями стоя с супинацией
+[Видео](https://youtube.com/shorts/CnMmyv7sSVA)
+
+### Сгибание рук попеременно с гантелями стоя с супинацией
+[Видео](https://youtube.com/shorts/lgFkM0bsCzU)
+
+### Сгибание рук на верхних блоках
+[Видео](https://youtube.com/shorts/IzwdPhCmhws)
 
 ---
 
 ## 💪 Трицепс
 
-### Французский жим лёжа со штангой
-[Видео](https://...)
+### 
+[Видео]()
 
-### Французский жим с гантелями
-[Видео](https://...)
+### 
+[Видео]()
 
-### Разгибания трицепса над головой
-[Видео](https://...)
+### 
+[Видео]()
 
-### Разгибания трицепса на канате
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
+### 
+[Видео]()
 
-### Разгибания трицепса прямой ручкой
-[Видео](https://...)
+### 
+[Видео]()
 
-### Кикбэки с гантелью
-[Видео](https://...)
+### 
+[Видео]()
 
-### Жим узким хватом лёжа
-[Видео](https://...)
+### 
+[Видео]()
 
 ---
 
