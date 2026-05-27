@@ -200,3 +200,5 @@
 - [[../recovery/recovery-markers]] — общая система маркеров
 - [[../methodology/mrv-personalization]] — расчёт MRV с поправкой
 - [[../methodology/intake-workflow]] — где этот документ вызывается
+- [[../methodology/cardio-prescription]] — кардио в общей программе (применяется в Z2 при ССЗ)
+- [[../methodology/aging-trainees]] — частая комбинация (ССЗ + возраст)

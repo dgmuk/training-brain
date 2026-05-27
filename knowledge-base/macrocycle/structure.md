@@ -2,7 +2,7 @@
 Тема: Структура макроцикла
 Раздел: macrocycle
 Источник: Bompa (1994) | Issurin (2010) | RP Strength | Helms et al. (2018)
-Связи: [[../periodization/models]] [[../periodization/mesocycle-structure]] [[../recovery/deload-protocols]] [[../volume-landmarks/volume-landmarks]] [[mass-gain-template]] [[fat-loss-template]]
+Связи: [[../periodization/models]] [[../periodization/mesocycle-structure]] [[../recovery/deload-protocols]] [[../volume-landmarks/volume-landmarks]] [[mass-gain-template]] [[strength-template]]
 ---
 
 # Структура макроцикла
@@ -72,8 +72,7 @@
 
 ### Под похудение
 
-См. [[fat-loss-template]].
-Особенности:
+Отдельный шаблон под похудение пока не реализован, программирование строится по [[../fat-loss/programming]] поверх стандартной структуры [[mass-gain-template]] с поправками:
 - Дефицит 300–500 ккал
 - Чаще делоады (каждые 4 нед, не 5)
 - Каждый 2-й мезо — диет-брейк или рефиды чаще
@@ -81,8 +80,7 @@
 
 ### Под рекомпозицию
 
-См. [[recomposition-template]].
-Особенности:
+Отдельный шаблон под рекомпозицию пока не реализован, применяется [[mass-gain-template]] с правками:
 - Едва заметный дефицит / поддержание
 - Высокий белок (2.5+ г/кг)
 - Работает у новичков и у людей с высоким % жира; у тренированных лин — почти не работает
@@ -213,8 +211,7 @@
 ## Связи
 
 - [[mass-gain-template]] — шаблон под набор массы
-- [[fat-loss-template]] — шаблон под похудение
-- [[recomposition-template]] — шаблон под рекомпозицию
+- [[strength-template]] — шаблон под максимальную силу
 - [[../periodization/models]] — модели периодизации
 - [[../periodization/mesocycle-structure]] — внутренняя структура мезоцикла
 - [[../recovery/deload-protocols]] — обязательные делоады

@@ -202,9 +202,17 @@
 ## Связи
 
 - [[1rm-estimation]] — расчёт 1RM из логов
+- [[1rm-testing-protocol]] — прямой тест максимума
+- [[rpe-autoregulation]] — продвинутая автрорегуляция через RPE для силового тренинга
+- [[proximity-to-failure]] — RIR по типам упражнений и фазам
+- [[exercise-selection]] — отбор упражнений для гипертрофии
+- [[intensification-techniques]] — дроп-сеты, rest-pause, myo-reps
+- [[specialization-phase]] — специализация на отстающую группу
+- [[peaking-protocols]] — особенности прогрессии в пикинге
 - [[weight-calibration-week-1]] — стартовая точка прогрессии
 - [[../volume-landmarks/volume-landmarks]] — границы объёма
 - [[../volume-landmarks/fractional-sets]] — PUOS-лимит
 - [[../periodization/mesocycle-structure]] — фазы и RIR по неделям
+- [[../periodization/strength-block]] — прогрессия в силовом блоке (по % 1RM)
 - [[../recovery/recovery-markers]] — когда тормозить прогрессию
 - [[mrv-personalization]] — когда пересчитывать MRV

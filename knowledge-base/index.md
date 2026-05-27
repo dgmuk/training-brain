@@ -9,9 +9,9 @@
 
 | Показатель | Значение |
 |------------|----------|
-| Последнее обновление | 2026-05-19 |
+| Последнее обновление | 2026-05-27 |
 | Разделов | 12 |
-| Страниц | 30+ |
+| Страниц | 52+ |
 | Клиентов | 1 |
 | Шаблонов | 8 |
 
@@ -25,8 +25,21 @@
 - [[methodology/intake-workflow]] — workflow приёма клиента
 - [[methodology/mrv-personalization]] — персональный расчёт MEV/MAV/MRV
 - [[methodology/1rm-estimation]] — оценка 1RM из подходов
+- [[methodology/1rm-testing-protocol]] — прямой тест максимума
 - [[methodology/weight-calibration-week-1]] — калибровочная Неделя 1 без весов
+- [[methodology/exercise-selection]] — отбор упражнений по SFR и паттернам
 - [[methodology/progression-rules]] — правила прогрессии нагрузки
+- [[methodology/proximity-to-failure]] — RIR по типам упражнений
+- [[methodology/rpe-autoregulation]] — программирование через RPE
+- [[methodology/intensification-techniques]] — дроп-сеты, rest-pause, myo-reps
+- [[methodology/specialization-phase]] — блок специализации на отстающую группу
+- [[methodology/peaking-protocols]] — подведение к пику и тейпер
+- [[methodology/bench-specialization]] — специализация на жиме лёжа
+- [[methodology/aging-trainees]] — программирование для клиентов 40+
+- [[methodology/cardio-prescription]] — кардио, зоны и дозировка
+- [[methodology/concurrent-training]] — параллельная тренировка силы и выносливости
+- [[methodology/minimalist-programming]] — минимализм при дефиците времени
+- [[methodology/adherence-protocols]] — поведенческое сопровождение клиента
 - [[methodology/return-after-break]] — возврат после перерыва >3 мес
 - [[methodology/split-selection]] — выбор тренировочного сплита
 
@@ -37,6 +50,7 @@
 - [[macrocycle/index]] — обзор раздела
 - [[macrocycle/structure]] — общая структура макроцикла
 - [[macrocycle/mass-gain-template]] — макроцикл под набор массы
+- [[macrocycle/strength-template]] — макроцикл под максимальную силу
 - *[fat-loss-template]* — *(создать при необходимости)*
 - *[recomposition-template]* — *(создать при необходимости)*
 
@@ -47,6 +61,7 @@
 - [[periodization/index]] — обзор раздела
 - [[periodization/models]] — LP / DUP / Блоковая / Tapering
 - [[periodization/mesocycle-structure]] — 5-недельный мезоцикл
+- [[periodization/strength-block]] — блоковая модель под силу
 
 ---
 
@@ -71,9 +86,10 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
 - [[contraindications/index]] — общий чек-лист
 - [[contraindications/medical-clearance]] — когда нужен медицинский допуск
 - [[contraindications/cardiovascular]] — протокол при ССЗ
-- *[lower-back]* — *(создать при необходимости)*
-- *[shoulders]* — *(создать при необходимости)*
-- *[knees]* — *(создать при необходимости)*
+- [[contraindications/lower-back]] — протокол при проблемах с поясницей
+- [[contraindications/shoulders]] — протокол при проблемах с плечом
+- [[contraindications/knees]] — протокол при проблемах с коленом
+- *[hips]* — *(создать при необходимости)*
 
 ---
 
@@ -114,8 +130,12 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
 ---
 
 ### 📁 [Female Physiology — Женская физиология](female-physiology/index.md)
-Гормональный цикл, адаптация нагрузок.
+Гормональный цикл, адаптация нагрузок, контрацепция, перименопауза.
 - [[female-physiology/index]] — обзор раздела
+- [[female-physiology/cycle-aware-programming]] — программирование с учётом фаз цикла
+- [[female-physiology/hypertrophy-women]] — особенности гипертрофии у женщин
+- [[female-physiology/contraception-effect]] — гормональная контрацепция
+- [[female-physiology/perimenopause]] — перименопауза и менопауза
 
 ---
 
@@ -141,7 +161,28 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
 | Выбрать сплит | [[methodology/split-selection]] |
 | Выбрать модель периодизации | [[periodization/models]] |
 | Построить макроцикл (6 мес) | [[macrocycle/structure]] |
+| Построить макроцикл под массу | [[macrocycle/mass-gain-template]] |
+| Построить макроцикл под силу | [[macrocycle/strength-template]] |
 | Построить мезоцикл | [[periodization/mesocycle-structure]] |
+| Построить силовой блок | [[periodization/strength-block]] |
+| Подвести клиента к тесту 1RM | [[methodology/peaking-protocols]] |
+| Провести тест 1RM | [[methodology/1rm-testing-protocol]] |
+| Программировать через RPE | [[methodology/rpe-autoregulation]] |
+| Специализация на жиме | [[methodology/bench-specialization]] |
+| Отобрать упражнения для гипертрофии | [[methodology/exercise-selection]] |
+| Назначить RIR на упражнения | [[methodology/proximity-to-failure]] |
+| Применить дроп-сеты, rest-pause, myo-reps | [[methodology/intensification-techniques]] |
+| Построить блок специализации на отстающую группу | [[methodology/specialization-phase]] |
+| Назначить кардио по цели | [[methodology/cardio-prescription]] |
+| Сочетать силу и выносливость (бег + штанга) | [[methodology/concurrent-training]] |
+| Программа для клиента с дефицитом времени | [[methodology/minimalist-programming]] |
+| Реакция на пропуски и возврат клиента | [[methodology/adherence-protocols]] |
+| Травма поясницы, плеча или колена | [[contraindications/index]] |
+| Программа для женщины с учётом цикла | [[female-physiology/cycle-aware-programming]] |
+| Программа для женщины (базовая гипертрофия) | [[female-physiology/hypertrophy-women]] |
+| Клиентка на гормональной контрацепции | [[female-physiology/contraception-effect]] |
+| Клиентка в перименопаузе или менопаузе | [[female-physiology/perimenopause]] |
+| Клиент 40+ (мужчина или женщина) | [[methodology/aging-trainees]] |
 | Шаблоны документов | [[../templates/README]] |
 | Программа для дома | [[exercises/home-equipment]] |
 
@@ -154,6 +195,38 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
 - *(пусто)*
 
 ---
+
+## 📝 Что добавлено в обновлении 2026-05-27
+
+- **Силовой блок методологии** (6 документов) — закрывает направление пауэрлифтинг / жимовики
+  - [[periodization/strength-block]] — блоковая модель под силу
+  - [[methodology/peaking-protocols]] — подведение к пику и тейпер
+  - [[methodology/1rm-testing-protocol]] — протокол прямого теста 1RM
+  - [[methodology/rpe-autoregulation]] — программирование через RPE
+  - [[methodology/bench-specialization]] — специализация на жиме лёжа
+  - [[macrocycle/strength-template]] — годовой шаблон под силу
+
+- **Женская физиология и возрастные клиенты** (5 документов) — закрывает работу с женщинами и взрослой аудиторией
+  - [[female-physiology/cycle-aware-programming]] — программирование с учётом фаз цикла
+  - [[female-physiology/hypertrophy-women]] — особенности гипертрофии у женщин
+  - [[female-physiology/contraception-effect]] — гормональная контрацепция
+  - [[female-physiology/perimenopause]] — перименопауза и менопауза
+  - [[methodology/aging-trainees]] — программирование для клиентов 40+
+
+- **Углублённая гипертрофия** (4 документа) — поднимает качество гипертрофического программирования
+  - [[methodology/exercise-selection]] — отбор упражнений по SFR и паттернам
+  - [[methodology/specialization-phase]] — блок специализации на отстающую группу
+  - [[methodology/intensification-techniques]] — дроп-сеты, rest-pause, myo-reps, partials
+  - [[methodology/proximity-to-failure]] — RIR по типам упражнений
+
+- **Контраиндикации, кардио, время, поведенчество** (7 документов) — закрывает работу с ограничениями и нестандартными ситуациями
+  - [[contraindications/lower-back]] — протокол при проблемах с поясницей
+  - [[contraindications/shoulders]] — протокол при проблемах с плечом
+  - [[contraindications/knees]] — протокол при проблемах с коленом
+  - [[methodology/cardio-prescription]] — кардио, зоны и дозировка
+  - [[methodology/concurrent-training]] — параллельная тренировка силы и выносливости
+  - [[methodology/minimalist-programming]] — минимализм при дефиците времени
+  - [[methodology/adherence-protocols]] — поведенческое сопровождение клиента
 
 ## 📝 Что добавлено в обновлении 2026-05-19
 

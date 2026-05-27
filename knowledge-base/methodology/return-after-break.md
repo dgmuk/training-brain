@@ -2,7 +2,7 @@
 Тема: Возврат к тренировкам после перерыва > 3 месяцев
 Раздел: methodology
 Источник: Ogasawara et al. (2013) — Re-training | Staron et al. (1991) — Muscle memory | Snijders et al. (2020)
-Связи: [[weight-calibration-week-1]] [[1rm-estimation]] [[mrv-personalization]] [[intake-workflow]] [[../volume-landmarks/volume-landmarks]]
+Связи: [[weight-calibration-week-1]] [[1rm-estimation]] [[mrv-personalization]] [[intake-workflow]] [[adherence-protocols]] [[../volume-landmarks/volume-landmarks]]
 ---
 
 # Возврат после перерыва > 3 месяцев

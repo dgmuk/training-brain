@@ -64,6 +64,10 @@
 ## Связи
 
 - [[models]] — выбор модели периодизации
+- [[strength-block]] — блоковая модель под силу
 - [[../recovery/deload-protocols]] — подробные протоколы делоада
 - [[../volume-landmarks/index]] — MEV/MAV/MRV значения
-- [[../athletes/index]] — карточки клиентов для расчёта MRV
+- [[../methodology/proximity-to-failure]] — RIR по фазам мезоцикла
+- [[../methodology/intensification-techniques]] — где в мезоцикле ставить интенсификацию
+- [[../methodology/specialization-phase]] — мезоцикл специализации
+- [[../../clients/index]] — карточки клиентов для расчёта MRV

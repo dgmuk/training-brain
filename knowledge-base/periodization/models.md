@@ -106,6 +106,8 @@ Colquhoun et al. (2018): DUP > LP для роста силы у трениров
 - Подготовка к соревнованиям с фиксированной датой
 - Преодоление молекулярной интерференции (AMPK vs mTOR)
 
+> Детальный шаблон под силу с прогрессией процентов и блоками: [[strength-block]].
+
 **Преимущество:** Bartolomei et al. (2014) — BP даёт больший прирост взрывной мощности при **меньшем суммарном тоннаже**. Более энергоэффективна для силовых показателей.
 
 **Физиологический эффект BP в выносливости** (велосипедисты, 12 нед):
@@ -245,6 +247,7 @@ Z3: 15–20% (высокоинтенсивные интервалы)
 
 - [[index]] — обзор раздела периодизации
 - [[mesocycle-structure]] — подробная структура мезоцикла
+- [[strength-block]] — блоковая модель под максимальную силу
 - [[../recovery/deload-protocols]] — протоколы делоада и суперкомпенсации
 - [[../recovery/recovery-markers]] — маркеры восстановления и ЦНС
 - [[../volume-landmarks/volume-landmarks]] — MEV/MAV/MRV ориентиры
@@ -252,5 +255,9 @@ Z3: 15–20% (высокоинтенсивные интервалы)
 - [[../recovery/index]] — восстановление и делоад
 - [[../fat-loss/programming]] — дефицит и кардио
 - [[../female-physiology/index]] — особенности для женщин
+- [[../methodology/peaking-protocols]] — пикинг и тейпер
+- [[../methodology/1rm-testing-protocol]] — тест 1RM
+- [[../methodology/rpe-autoregulation]] — RPE-программирование
+- [[../methodology/bench-specialization]] — специализация на жиме
 
 Источник: [[raw/bompa-periodization]] [[raw/issurin-block-periodization]] [[raw/colquhoun-2018-dup-lp]] [[raw/seiler-polarized-2009]]

@@ -149,5 +149,7 @@
 - [[../recovery/deload-protocols]] — протоколы делоада
 - [[../recovery/recovery-markers]] — маркеры восстановления
 - [[../female-physiology/index]] — женская физиология
+- [[../methodology/cardio-prescription]] — общая методичка по кардио
+- [[../methodology/concurrent-training]] — сила и кардио вместе
 
 Источник: [[raw/lafontant-2025-rt-at-ct-meta]] [[raw/murphy-2021-energy-deficit-lm]] [[raw/issn-protein-2017]] [[raw/matador-study-2017]]

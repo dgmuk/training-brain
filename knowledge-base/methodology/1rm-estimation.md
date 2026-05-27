@@ -2,7 +2,7 @@
 Тема: Оценка 1RM из подходов с повторениями
 Раздел: methodology
 Источник: Brzycki (1993) | Epley (1985) | Lombardi (1989) | Helms et al. (2018) — RPE-based 1RM
-Связи: [[weight-calibration-week-1]] [[progression-rules]] [[exercise-ratios]]
+Связи: [[weight-calibration-week-1]] [[progression-rules]] [[1rm-testing-protocol]] [[rpe-autoregulation]] [[peaking-protocols]]
 ---
 
 # Оценка 1RM (одноповторного максимума)
@@ -163,5 +163,7 @@
 
 - [[weight-calibration-week-1]] — где собираются данные для расчёта
 - [[progression-rules]] — как 1RM используется в прогрессии
-- [[exercise-ratios]] — соотношения 1RM между упражнениями (если у нас есть жим, оценить присед)
+- [[1rm-testing-protocol]] — протокол прямого теста 1RM (когда расчётная оценка не подходит)
+- [[rpe-autoregulation]] — расчёт через RPE и автрорегуляция
+- [[peaking-protocols]] — подведение к тесту через тейпер
 - [[../volume-landmarks/volume-landmarks]] — % 1RM в недельной структуре

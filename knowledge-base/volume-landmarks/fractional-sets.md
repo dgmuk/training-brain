@@ -126,5 +126,8 @@
 - [[../periodization/mesocycle-structure]] — распределение объёма по неделям
 - [[../recovery/deload-protocols]] — протоколы делоада и суперкомпенсации
 - [[../research/volume-landmarks-2024]] — подробный разбор Pelland (2024)
+- [[../methodology/exercise-selection]] — отбор упражнений с учётом дробного вклада
+- [[../methodology/intensification-techniques]] — поправки к подсчёту при дроп-сетах и rest-pause
+- [[../methodology/specialization-phase]] — где PUOS работает на пределе
 
 Источник: [[raw/pelland-2024-dose-response]] [[raw/remmert-2025-session-volume]]

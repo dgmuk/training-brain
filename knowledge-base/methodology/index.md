@@ -13,8 +13,21 @@
 | [[intake-workflow]] | Получили заполненную анкету клиента |
 | [[mrv-personalization]] | Нужно рассчитать персональные MEV/MAV/MRV |
 | [[1rm-estimation]] | Нужно оценить 1RM по числу повторений |
+| [[1rm-testing-protocol]] | Прямой тест максимума на главном движении |
 | [[weight-calibration-week-1]] | Строим первую неделю клиента (без точных весов) |
+| [[exercise-selection]] | Отбор упражнений по SFR и паттернам движения |
 | [[progression-rules]] | Решаем как менять веса/подходы между неделями |
+| [[proximity-to-failure]] | RIR по типам упражнений и фазам мезоцикла |
+| [[rpe-autoregulation]] | Программирование через RPE для среднего и продвинутого |
+| [[intensification-techniques]] | Дроп-сеты, rest-pause, myo-reps, partials |
+| [[specialization-phase]] | Блок специализации на отстающую группу |
+| [[peaking-protocols]] | Подведение к пику перед тестом или соревнованием |
+| [[bench-specialization]] | Клиент-жимовик, специализация на жиме лёжа |
+| [[aging-trainees]] | Клиент 40+, корректировки по возрасту |
+| [[cardio-prescription]] | Дозировка кардио, зоны интенсивности |
+| [[concurrent-training]] | Параллельная тренировка силы и выносливости |
+| [[minimalist-programming]] | Программа на 2-3 короткие тренировки в неделю |
+| [[adherence-protocols]] | Поведенческое сопровождение, пропуски, возврат |
 | [[return-after-break]] | Клиент с перерывом >3 месяцев |
 | [[split-selection]] | Выбираем сплит под клиента |
 

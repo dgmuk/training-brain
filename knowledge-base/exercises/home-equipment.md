@@ -253,6 +253,8 @@
 ## Связи
 
 - [[index]] — общий каталог упражнений
+- [[exercise-library]] — каноническая библиотека имён и видео-ссылок
 - [[../volume-landmarks/fractional-sets]] — таблица вкладов
 - [[../methodology/split-selection]] — выбор сплита
-- [[exercise-substitutions]] — замены упражнений (если создан)
+- [[../methodology/exercise-selection]] — алгоритм отбора упражнений по SFR и паттернам
+- [[../methodology/proximity-to-failure]] — RIR на упражнениях с гантелями
