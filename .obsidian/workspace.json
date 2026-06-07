@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge-base/exercises/exercise-library.md",
+                "file": "clients/nikita-zaharov-offline/mesocycle-1/fakt/week-4-fakt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercise-library"
+              "title": "week-4-fakt"
             }
           }
         ]
@@ -182,28 +182,41 @@
   },
   "active": "d16b235b6bf332b5",
   "lastOpenFiles": [
-    "clients/dmitry-mukhin/mesocycle-1/week-1.md",
-    "clients/dmitry-mukhin/mesocycle-1/overview.md",
-    "clients/dmitry-mukhin/profile.md",
-    "clients/dmitry-mukhin/macrocycle/strategy.md",
-    "clients/dmitry-mukhin/macrocycle/overview.md",
-    "knowledge-base/research/методы-интенсификации-гипертрофия.md",
-    "Контент_Маркетинг_Стратегия.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/fakt/week-5-deload-fakt.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/fakt/week-4-fakt.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/fakt/week-3-fakt.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/fakt/week-2-fakt.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/fakt/week-1-fakt.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/fakt",
+    "clients/valeriy-lysyh-offline/mesocycle-1/program/week-5-deload.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/program/week-4.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/program/week-3.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/program/week-2.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/program/week-1.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/program",
+    "clients/nikita-zaharov-offline/mesocycle-1/fakt/week-1-fakt.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/fakt/week-5-deload-fakt.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/fakt/week-4-fakt.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/fakt/week-3-fakt.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/fakt/week-2-fakt.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/program/week-5-deload.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/program/week-4.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/program/week-3.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/program/week-2.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/program/week-1.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/program",
+    "clients/valeriy-lysyh-offline/mesocycle-1/week-1.md",
+    "clients/valeriy-lysyh-offline/macrocycle/overview.md",
+    "clients/valeriy-lysyh-offline/macrocycle/strategy.md",
+    "clients/nikita-zaharov-offline/mesocycle-1/week-1.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/week-5-deload.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1/week-4.md",
+    "clients/valeriy-lysyh-offline/mesocycle-1",
+    "clients/valeriy-lysyh-offline/macrocycle",
+    "clients/valeriy-lysyh-offline",
     "raw/_pdf_clean.txt",
     "raw/_pdf_extract.txt",
     "raw/Интенсификация тренировок_ научно-обоснованное руководство по выбору методик для гипертрофии.pdf",
-    "knowledge-base/exercises/index.md",
-    "clients/dimon/mesocycle-1/week-2.md",
-    "raw/dimon-week2-log.md",
-    "raw/dimon-week1-log.md",
-    "clients/index.md",
-    "clients/dimon/README.md",
-    "clients/dimon/mesocycle-1/week-1.md",
-    "clients/dimon/mesocycle-1/overview.md",
-    "clients/dimon/mesocycle-1",
-    "clients/dimon/profile.md",
-    "clients/dimon",
-    "clients",
-    "raw/dimon-week2-log.csv"
+    "clients/dimon/mesocycle-1"
   ]
 }
