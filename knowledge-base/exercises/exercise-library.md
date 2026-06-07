@@ -159,129 +159,197 @@
 
 ---
 
-## 🦵 Ноги (квадрицепсы и ягодицы)
+## 🦵 Ноги (квадрицепсы, ягодицы, бицепс бедра, задняя цепь)
 
-### Приседания со штангой
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
-Техника: полная амплитуда, колени по направлению носков, спина нейтральна.
+### Выпады вперед со штангой на плечах
+[Видео](https://youtube.com/shorts/UTTiZlXfjig)
 
-### Фронтальные приседания
-[Видео](https://...)
+### Обратные выпады с гирей
+[Видео](https://youtube.com/shorts/_L-rODOldUc)
 
-### Гакк-приседания
-[Видео](https://...)
-
-### Жим ногами
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
-Техника: упор в пятки, таз не отрывается от спинки.
+### Обратные выпады со штангой на плечах
+[Видео](https://youtube.com/shorts/Dh8GI6wWxLo)
 
 ### Гоблет-приседания
-[Видео](https://...)
-Техника: гантель у груди, спина прямая, полная амплитуда.
+[Видео](https://youtube.com/shorts/TCnvNgingak)
 
-### Болгарские сплит-приседы
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
+### Жим платформы одной ногой
+[Видео](https://youtube.com/shorts/slQAMsy1I04)
 
-### Выпады с гантелями
-[Видео](https://...)
+### Жим ногами в тренажере
+[Видео](https://youtube.com/shorts/_JFZn8Fa1Ew)
 
-### Обратные выпады
-[Видео](https://...)
+### Зашагивание на тумбу с гантелью
+[Видео](https://youtube.com/shorts/jPA5wgXQ5eM)
 
-### Степ-апы на скамью
-[Видео](https://...)
+### Поочередное зашагивание на тумбу
+[Видео](https://youtube.com/shorts/q-YbDhArJno)
 
-### Сисси-приседания
-[Видео](https://...)
+### Тяга одной ногой с гантелью Ласточка
+[Видео](https://youtube.com/shorts/kHr6KRO6al8)
 
-### Разгибания ног в тренажёре
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
+### Тяга одной ногой с гантелями Ласточка
+[Видео](https://youtube.com/shorts/7eVwyNDnp98)
 
----
+### Румынская тяга с гантелями
+[Видео](https://youtube.com/shorts/qKxQwEQM8wU)
 
-## 🦵 Ноги (бицепс бедра, ягодицы, задняя цепь)
+### Румынская тяга со штангой
+[Видео](https://youtube.com/shorts/WKhZHOylbQc)
 
-### Становая тяга классическая
-[Видео](https://...)
+### Гакк-приседания в тренажере
+[Видео](https://youtube.com/shorts/4WfvJ8nqcpc)
 
-### Становая тяга сумо
-[Видео](https://...)
+### Приседания со штангой
+[Видео](https://youtube.com/shorts/oejbTxugXWo)
 
-### Румынская тяга
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
-Техника: движение тазом назад, спина нейтральна, штанга идёт вдоль ног.
+### Приседания в тренажере Смита
+[Видео](https://youtube.com/shorts/Q5lft4s2gTw)
 
-### Румынская тяга на гантелях
-[Видео](https://...)
+### Приседания с фитнес-резинкой
+[Видео](https://youtube.com/shorts/0OZLmKmmpC8)
 
-### Становая на одной ноге (RDL)
-[Видео](https://...)
+### Приседания с гирей. (Приседания-плие)
+[Видео](https://youtube.com/shorts/bI8bwsy8gVc)
 
-### Сгибания ног в тренажёре
-[Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
+### Разведение ног в тренажере сидя
+[Видео](https://youtube.com/shorts/FvgCLLKboBs)
 
-### Сгибания ног с эспандером
-[Видео](https://...)
+### Разгибание бедра в тренажере стоя
+[Видео](https://youtube.com/shorts/7JkCJMvSSA8)
 
-### Хип-траст (ягодичный мост) с гантелью
-[Видео](https://...)
+### Разгибание ног сидя в тренажере
+[Видео](https://youtube.com/shorts/YSUz5JJd9hI)
 
-### Хип-траст со штангой
-[Видео](https://...)
+### Сведение ног в тренажере сидя
+[Видео](https://youtube.com/shorts/oclQkX49LGc)
 
-### Махи ноги назад в кроссовере
-[Видео](https://...)
+### Сгибание ног в тренажере лежа
+[Видео](https://youtube.com/shorts/UZMPcTn8AkE)
+
+### Сгибание ног сидя
+[Видео](https://youtube.com/shorts/ZzxSPZ64Nhs)
+
+### Болгарские сплит приседания
+[Видео](https://youtube.com/shorts/MagGM_X8d4M)
+
+### Сплит приседания в тренажере Смита
+[Видео](https://youtube.com/shorts/uSg_VehV2kg)
+
+### Сплит приседания с одной гантелью
+[Видео](https://youtube.com/shorts/w8ilvOu_JFU)
+
+### Сплит-приседания с гантелями
+[Видео](https://youtube.com/shorts/G13FeGV_ahs)
+
+### Сплит приседания со штангой на плечах
+[Видео](https://youtube.com/shorts/Jr9RrYmeqUg)
+
+### Фронтальные приседания в блоке
+[Видео](https://youtube.com/shorts/i6MA1gGCyx8)
+
+### Фронтальные приседания с гирями
+[Видео](https://youtube.com/shorts/NQIFNLxgSvc)
+
+### Фронтальные приседания со штангой
+[Видео](https://youtu.be/_XCh6Y2rbDU)
+
+### Ягодичный мост в тренажере
+[Видео](https://youtube.com/shorts/Qf2hgaiYh3g)
+
+### Ягодичный мост на одной ноге
+[Видео](https://youtube.com/shorts/95JqURxT1Ow)
+
+### Ягодичный мост на полу
+[Видео](https://youtube.com/shorts/WozY6RMdOak)
+
+### Ягодичный мост со штангой
+[Видео](https://youtube.com/shorts/cnD4bMCmWbo)
 
 ---
 
 ## 🦵 Икры
 
+### Жим носками в тренажере
+[Видео](https://youtube.com/shorts/pyAlWHttpYI)
+
+### Подъемы на носки стоя в тренажере
+[Видео](https://youtube.com/shorts/OY72y_slVhg)
+
+### Подъемы на носки сидя в тренажере
+[Видео](https://youtube.com/shorts/e2Wi5vAnKrQ)
+
 ### Подъёмы на носки стоя с гантелями
-[Видео](https://...)
+[Видео]()
 
 ### Подъёмы на носки на одной ноге
-[Видео](https://...)
-
-### Подъёмы на носки сидя
-[Видео](https://...)
-
-### Подъёмы на носки в тренажёре
-[Видео](https://...)
+[Видео]()
 
 ---
 
 ## 🏋️ Плечи
 
-### 
-[Видео]()
+### Жим Арнольда
+[Видео](https://youtube.com/shorts/oAh4jAruCjE)
 
-### 
-[Видео]()
+### Вертикальный жим в тренажере
+[Видео](https://youtube.com/shorts/Qv4S9oRj89o)
 
-### 
-[Видео]()
+### Жим гантелей сидя
+[Видео](https://youtube.com/shorts/82Q3TrJINmw)
 
-### 
-[Видео]()
+### Жим гантелей стоя
+[Видео](https://youtube.com/shorts/5WwaoCbSpBc)
 
-### 
-[Видео]()
+### Жим гантелей сидя нейт хват
+[Видео](https://youtube.com/shorts/H51iPpntS-A)
 
-### 
-[Видео]()
+### Жим штанги стоя
+[Видео](https://youtube.com/shorts/jme8fquCw5s)
 
-### 
-[Видео]()
+### Жим в тренажере Смита сидя
+[Видео](https://youtube.com/shorts/o50WOesRdKQ)
 
-### 
-[Видео]()
+### Отведение руки в кроссовере
+[Видео](https://youtube.com/shorts/EIVJkQXOFOg)
 
-### 
-[Видео]()
+### Отведение руки с гантелью с наклоном
+[Видео](https://youtube.com/shorts/zjYqnpE-Ng0)
+
+### Подъем рук перед собой с канатом
+[Видео](https://youtube.com/shorts/0FHOIvjNprk)
+
+### Подъем рук перед собой с рукоятью
+[Видео](https://youtube.com/shorts/vYI29scSpI4)
+
+### Махи с гантелями в наклоне
+[Видео](https://youtu.be/CD_EohqoAeI)
+
+### Поочередный подъем гантелей перед собой
+[Видео](https://youtube.com/shorts/FEgBqk-xPX4)
+
+### Махи с гантелями сидя
+[Видео](https://youtube.com/shorts/sJ1EdTJBbFo)
+
+### Махи гантелей в стороны стоя
+[Видео](https://youtube.com/shorts/6CoCBS6PPvE)
+
+### Тяга к подбородку из нижнего блока
+[Видео](https://youtube.com/shorts/XJf-xX1k_8I)
+
+### Тяга к подбородку в тренажере Смита
+[Видео](https://youtube.com/shorts/Qy8ti-3Jq5M)
+
+### Тяга EZ грифа к груди стоя протяжка
+[Видео](https://youtube.com/shorts/bXoN1swen0k)
+
+### Тяга штанги к подбородку стоя (протяжка)
+[Видео](https://youtube.com/shorts/NdmbJin03dg)
+
+### Обратные разведения в тренажере «Бабочка»
+[Видео](https://youtube.com/shorts/EZtgEu-STUs)
 
 
-### 
-[Видео]()
 
 ---
 
@@ -369,30 +437,63 @@
 
 ## 💪 Трицепс
 
-### 
-[Видео]()
+### Жим штанги узким хватом
+[Видео](https://youtube.com/shorts/qEd5x6VCPNM)
 
-### 
-[Видео]()
+### Отжимания от скамьи
+[Видео](https://youtube.com/shorts/c6jmpd2XeN8)
 
-### 
-[Видео]()
+### Отжимания в гравитоне
+[Видео](https://youtube.com/shorts/wyev8R5RcFg)
 
-### 
-[Видео]()
+### Отжимания на брусьях на трицепс
+[Видео](https://youtube.com/shorts/DI9j7LtR4TM)
 
-### 
-[Видео]()
+### Узкие отжимания на рукоятках
+[Видео](https://youtube.com/shorts/PjA2UojD89I)
 
-### 
-[Видео]()
+### Разгибание руки на блоке в наклоне кикбэк
+[Видео](https://youtube.com/shorts/r87DmmK3AMQ)
 
-### 
-[Видео]()
+### Разгибание руки обратным хватом
+[Видео](https://youtube.com/shorts/mqLs7OqnDWY)
+
+### Разгибание рук на верхнем блоке
+[Видео](https://youtube.com/shorts/-Ghg9cSRgQs)
+
+### Разгибание рук на верхнем блоке с W-рукоятью
+[Видео](https://youtube.com/shorts/wyxvN8WuLuE)
+
+### Разгибание рук на верхнем блоке в наклоне
+[Видео](https://youtube.com/shorts/1GU_DVk1BO4)
+
+### Разгибание рук на верхнем блоке обратным хват
+[Видео](https://youtube.com/shorts/vd7-z1bqjjo)
+
+### Разгибание рук на верхнем блоке с канатом
+[Видео](https://youtube.com/shorts/uRt2I9N_TMU)
+
+### Разгибание рук с гантелью из за головы сидя
+[Видео](https://youtube.com/shorts/NkIbBBK2_8U)
+
+### Разгибание рук на блоке лежа
+[Видео](https://youtube.com/shorts/MlI6wfsbAtc)
+
+### Разгибание руки с гантелью в наклоне Кикбэк
+[Видео](https://youtube.com/shorts/QWuhZYOimA0)
+
+### Разгибание одной руки с гантелью из за головы
+[Видео](https://youtube.com/shorts/HOyjiDaC6aM)
+
+### Французский жим с гантелями лежа
+[Видео](https://youtube.com/shorts/_LJX5SZJPoU)
+
+### Французский жим лежа с EZ грифом
+[Видео](https://youtube.com/shorts/LIQIxYS6R7U)
 
 ---
 
-## 🧱 Пресс и кор
+## 🧱 Пресс, многосуставные / функциональные
 
 ### Скручивания
 [Видео](https://...)
@@ -413,25 +514,6 @@
 [Видео](https://...)
 
 ### Колесо для пресса (Ab Wheel)
-[Видео](https://...)
-
----
-
-## ⚡ Многосуставные / функциональные
-
-### Бёрпи
-[Видео](https://...)
-
-### Махи гирей (Kettlebell Swing)
-[Видео](https://...)
-
-### Трастеры
-[Видео](https://...)
-
-### Прыжки на ящик
-[Видео](https://...)
-
-### Фермерская ходьба
 [Видео](https://...)
 
 ---
