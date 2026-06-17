@@ -132,7 +132,7 @@
 ### Вертикальная тяга блока узким хватом
 [Видео](https://youtube.com/shorts/X93DSx05Fuw)
 
-### Вертикальная тяга широким нейтральный хватом
+### Вертикальная тяга широким нейтральным хватом
 [Видео](https://youtube.com/shorts/gyPhuXh58LY)
 
 ### Вертикальная тяга к груди средним хватом
@@ -420,8 +420,6 @@
 ### Обратные разведения в тренажере «Бабочка»
 [Видео](https://youtube.com/shorts/EZtgEu-STUs)
 
-
-
 ---
 
 ## 💪 Бицепс
@@ -566,26 +564,128 @@
 
 ## 🧱 Пресс, многосуставные / функциональные
 
-### Скручивания
-[Видео](https://...)
+### Алмазные отжимания
+[Видео](https://youtu.be/idjSwS1ZDxs)
 
-### Подъемы ног в висе
-[Видео](https://...)
+### Берпи
+[Видео](https://youtu.be/TVk4EuQIllk)
 
-### Планка
-[Видео](https://...)
+### Отжимания «Лучник»
+[Видео](https://youtu.be/dQusljqtAmo)
 
-### Боковая планка
-[Видео](https://...)
+### Выпады в сторону
+[Видео](https://youtu.be/CcgW7pi_0NE)
 
-### Велосипед (вело-скручивания)
-[Видео](https://...)
+### Прямой выпад с ударом коленом
+[Видео](https://youtu.be/C7SxYe7iQWw)
 
-### Дровосек с гантелью
-[Видео](https://...)
+### Выпады в прыжке
+[Видео](https://youtu.be/dMco2fI4clw)
 
-### Колесо для пресса (Ab Wheel)
-[Видео](https://...)
+### Выпады в прыжке + присед с прыжком
+[Видео](https://youtu.be/DHd9WuuDTCc)
+
+### Обратный выпад с махом ногой вперед
+[Видео](https://youtu.be/PgE5pngpWzY)
+
+### Гоблет приседания + французский жим с гирей
+[Видео](https://youtu.be/FIKWpDNmAAo)
+
+### Джампинг Джек
+[Видео](https://youtu.be/2QaFyEUO-W4)
+
+### Жим гантелей лежа на полу
+[Видео](https://youtu.be/18V3GYSY-wo)
+
+### Разгибание руки с гантелью в наклоне
+[Видео](https://youtu.be/T9ce0wcehzs)
+
+### Конькобежец
+[Видео](https://youtu.be/UsBSrmPR9X4)
+
+### Краб + отжимания
+[Видео](https://youtu.be/Ozom0C-tvaE)
+
+### Ласты
+[Видео](https://youtu.be/BscFfhllmHE)
+
+### Лечь встать
+[Видео](https://youtu.be/GhIbRxvvkwM)
+
+### Махи гирей перед собой
+[Видео](https://youtu.be/lJvfdSPt42E)
+
+### Мега выпады
+[Видео](https://youtu.be/oKEv5VCFh8s)
+
+### Классические отжимания от пола
+[Видео](https://youtu.be/p65fqqCZZhk)
+
+### Отжимания с колен с прогибом
+[Видео](https://youtu.be/UoUuY_NysZo)
+
+### Отжимания Кобра с касанием плеча
+[Видео](https://youtu.be/l6DnvY4dsPE)
+
+### Шагающие отжимания
+[Видео](https://youtu.be/tznTJbShoGE)
+
+### Перебросы гири
+[Видео](https://youtu.be/r909bVh67C4)
+
+### Перебросы мяча сидя
+[Видео](https://youtu.be/O9kB_x0tTWc)
+
+### Перекрестные махи ногами стоя
+[Видео](https://youtu.be/039l7LqckTc)
+
+### Перехваты гантели лежа
+[Видео](https://youtu.be/UthnAb7Co38)
+
+### Планка на локтях
+[Видео](https://youtu.be/7jCkJrccKQ0)
+
+### Поочередные выпады вперед
+[Видео](https://youtu.be/aPwSa9rHg6g)
+
+### Скручивания на пресс в тренажере сидя
+[Видео](https://youtube.com/shorts/isz8onxtt1c)
+
+### Приседания
+[Видео](https://youtu.be/2wMQdw0tXrU)
+
+### Проходка на руках с отжиманием
+[Видео](https://youtu.be/6fhNpmQCb9U)
+
+### Проходка на руках с переходом в планку
+[Видео](https://youtu.be/Bwuirdgiwq8)
+
+### Бег на месте с касанием колен
+[Видео](https://youtu.be/glz1nG0kCJw)
+
+### Прыжки из приседа, выпрыгивания
+[Видео](https://youtu.be/tlthbuTtizc)
+
+### Приседания с касанием пола и выпрыгиванием
+[Видео](https://youtu.be/cWP1e2gxadA)
+
+### Пуловер с гантелью лежа на полу
+[Видео](https://youtu.be/H6OTXKDUThw)
+
+### Разведение гантелей стоя в наклоне
+[Видео](https://youtu.be/_L-BQaUXKo0)
+
+### Сгибание ног с гантелью лежа
+[Видео](https://youtu.be/5QG9uyWnf8A)
+
+### Подъем коленей в упоре на брусьях
+[Видео](https://youtube.com/shorts/ON7FV5rkuto)
+
+### Смена позиции
+[Видео](https://youtu.be/7zMQIe1zX5U)
+
+### Ягодичный мост на одной ноге
+[Видео](https://youtu.be/ZYZFa_aK8Xc)
 
 ---
 
