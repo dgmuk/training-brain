@@ -435,6 +435,9 @@
 ### Тяга штанги к подбородку стоя (протяжка)
 [Видео](https://youtube.com/shorts/NdmbJin03dg)
 
+### Face Pulls
+[Видео](https://youtube.com/shorts/VHRbhfJnE0U)
+
 ### Обратные разведения в тренажере «Бабочка»
 [Видео](https://youtube.com/shorts/EZtgEu-STUs)
 

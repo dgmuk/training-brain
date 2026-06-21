@@ -22,7 +22,7 @@ type: standard
 
 **Рекомендация дня:** Сегодня силовой день, диапазон 5-8 повторений, отдых между подходами 2-3 минуты, это важно, при силовой работе мышцам нужно полноценно восстановиться между подходами, не торопись. В жиме лёжа следи за локтями, они должны идти под углом 45 градусов к корпусу, не разводи их перпендикулярно, лопатки сведены и прижаты к скамье на протяжении всего подхода. В приседе контролируй опускание, 2-3 секунды вниз, колени по направлению носков, не заваливай их внутрь.
 
-### Жим штанги лёжа
+### Жим штанги лежа на горизонтальной скамье
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 4 x 5-8 • 60/60/62.5/62.5 кг
 
@@ -31,14 +31,14 @@ type: standard
 - Жим в Хаммере | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 5-8
 - Отжимания на брусьях | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 5-8
 
-### Тяга верхнего блока (паралл. хват)
+### Вертикальная тяга блока параллельным хватом
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 4 x 6-8 • 70/70/72.5/72.5 кг
 
 **Альтернативы:**
 - Подтягивания прямым хватом | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 6-8
-- Тяга верхнего блока широким хватом | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 6-8
-- Тяга горизонтального блока | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 6-8
+- Вертикальная тяга широким нейтральным хватом | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 6-8
+- Горизонтальная тяга в тренажере сидя | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 6-8
 
 ### Приседания со штангой
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
@@ -49,7 +49,7 @@ type: standard
 - Гакк-приседания | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 5-8
 - Гоблет-приседания | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 5-8
 
-### Румынская тяга
+### Румынская тяга со штангой
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 3 x 6-8 • 80/80/82.5 кг
 
@@ -58,7 +58,7 @@ type: standard
 - Сгибания ног в тренажёре | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 6-8
 - Становая на одной ноге (RDL) | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 6-8
 
-### Махи гантелей в стороны
+### Махи гантелей в стороны стоя
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 3 x 12-15 • 10/10/10 кг
 
@@ -73,7 +73,7 @@ type: standard
 
 **Рекомендация дня:** Сегодня гипертрофийный день, диапазон 8-12 повторений, отдых между подходами 90 секунд — 2 минуты, темп контролируемый: опускание 2-3 секунды, подъём взрывной, это не просто стиль, медленное опускание создаёт больше механического напряжения и даёт лучший стимул для роста. В тяге штанги в наклоне держи спину нейтральной, не округляй поясницу, тяни локтём к бедру, а не к потолку. Face Pulls выполняй с полным разведением кулаков на пике, это важно для здоровья плеч.
 
-### Жим гантелей лёжа
+### Жим гантелей лежа на горизонтальной скамье
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 4 x 8-12 • 35/35/37.5/37.5 кг
 
@@ -89,9 +89,9 @@ type: standard
 **Альтернативы:**
 - Тяга гантели одной рукой | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 8-12
 - Тяга Т-грифа | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 8-12
-- Тяга двух гантелей в наклоне | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 8-12
+- Тяга гантелей стоя в наклоне | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 8-12
 
-### Жим ногами
+### Жим ногами в тренажере
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 4 x 10-12 • 100/100/110/110 кг
 
@@ -100,7 +100,7 @@ type: standard
 - Болгарские сплит-приседы | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 10-12
 - Гакк-приседания | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 4 x 10-12
 
-### Сгибания ног в тренажёре
+### Сгибание ног в тренажере лежа
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 3 x 10-12 • 40/40/42.5 кг
 
@@ -118,7 +118,7 @@ type: standard
 - Обратные разводки лёжа на животе | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 - Тяга к подбородку | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 
-### Сгибания с гантелями стоя
+### Одновременное сгибание рук с гантелями стоя
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 3 x 10-12 • 15/15/15 кг
 
@@ -133,7 +133,7 @@ type: standard
 
 **Рекомендация дня:** Сегодня метаболический день, диапазон 12-15 повторений, отдых между подходами 60-90 секунд, это короче чем в предыдущие дни намеренно, более короткий отдых при высоком числе повторений создаёт метаболический стресс, который тоже стимулирует рост. Болгарские сплит-приседы выполняй с гантелями, задняя нога на скамье, опускай до параллели бедра с полом, не торопись, это упражнение требует баланса. Если в жиме на наклонной чувствуешь дискомфорт в плечах, сразу переходи на альтернативу и напиши мне.
 
-### Жим гантелей на наклонной скамье
+### Жим гантелей лежа на наклонной скамье
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 3 x 12-15 • 30/30/32.5 кг
 
@@ -142,16 +142,16 @@ type: standard
 - Сведения в кроссовере (Пек-дек) | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 - Отжимания с поднятыми ногами | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 
-### Тяга гантели одной рукой
+### Тяга гантели в наклоне
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 3 x 12-15 • 32.5/32.5/32.5 кг
 
 **Альтернативы:**
-- Тяга горизонтального блока | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
-- Тяга двух гантелей в наклоне | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
+- Горизонтальная тяга в тренажере сидя | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
+- Тяга гантелей стоя в наклоне | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 - Австралийские подтягивания | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 
-### Болгарские сплит-приседы
+### Болгарские сплит приседания
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 3 x 12-15 • 20/20/22.5 кг
 
@@ -160,7 +160,7 @@ type: standard
 - Обратные выпады | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 - Степ-апы на скамью | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 
-### Разгибания ног в тренажёре
+### Разгибание ног сидя в тренажере
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 3 x 12-15 • 40/40/42.5 кг
 
@@ -169,16 +169,16 @@ type: standard
 - Гоблет-приседания | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 - Фронтальные приседания | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 
-### Махи в наклоне
+### Махи с гантелями в наклоне
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 3 x 12-15 • 10/10/10 кг
 
 **Альтернативы:**
 - Face Pulls | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 - Обратные разводки лёжа на животе | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
-- Тяга горизонтального блока | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
+- Горизонтальная тяга в тренажере сидя | [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF) | 3 x 12-15
 
-### Разгибания трицепса на канате
+### Разгибание рук на верхнем блоке с канатом
 [Видео](https://youtu.be/ZygH9wgjFpQ?si=6Lw-UlxzZOLJwyQF)
 - 3 x 12-15 • 22.5/22.5/25 кг
 
