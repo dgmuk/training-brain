@@ -2,13 +2,13 @@
 client_id: dmitry-mukhin
 client_name: Дмитрий
 mesocycle: 2
-week: 1
+week: 6
 period_start: 2026-06-23
 period_end: 2026-06-29
 type: standard
 ---
 
-# Неделя 1 (Мезо 2)
+# Неделя 6
 
 **Период:** 2026-06-23 — 2026-06-29
 
