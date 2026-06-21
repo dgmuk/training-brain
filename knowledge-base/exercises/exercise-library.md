@@ -268,6 +268,9 @@
 ### Румынская тяга со штангой
 [Видео](https://youtube.com/shorts/WKhZHOylbQc)
 
+### Румынская тяга на одной ноге
+[Видео](https://youtube.com/shorts/MrQ05dEpnnI)
+
 ### Гакк-приседания в тренажере
 [Видео](https://youtube.com/shorts/4WfvJ8nqcpc)
 
@@ -337,6 +340,21 @@
 ### Ягодичный мост со штангой
 [Видео](https://youtube.com/shorts/cnD4bMCmWbo)
 
+### Обратные выпады с платформы
+[Видео](https://youtube.com/shorts/HqGb-NZUSOM)
+
+### Жим носками в блочном тренажере
+[Видео](https://youtube.com/shorts/Fblyo55yQ5c)
+
+### Обратная гиперэкстензия на скамье
+[Видео](https://youtube.com/shorts/WwfLfSQFNV4)
+
+### Румынская тяга в блоке
+[Видео](https://youtube.com/shorts/h33QQzd38Jk)
+
+### Разгибание бедра в кроссовере
+[Видео](https://youtube.com/shorts/dL1nCUPER-w)
+
 ---
 
 ## 🦵 Икры
@@ -350,8 +368,8 @@
 ### Подъемы на носки сидя в тренажере
 [Видео](https://youtube.com/shorts/e2Wi5vAnKrQ)
 
-### Подъемы на носки стоя с гантелями
-[Видео]()
+### Жим носками в блочном тренажере
+[Видео](https://youtube.com/shorts/Fblyo55yQ5c)
 
 ### Подъемы на носки на одной ноге
 [Видео]()
@@ -686,6 +704,13 @@
 
 ### Ягодичный мост на одной ноге
 [Видео](https://youtu.be/ZYZFa_aK8Xc)
+
+### Скручивания на полусфере Bosu
+[Видео](https://youtube.com/shorts/-HfNNmXYIvo)
+
+### Обратные скручивания
+[Видео](https://youtube.com/shorts/qoP-kvprYOE)
+
 
 ---
 
