@@ -46,7 +46,7 @@ clients/aleksandr-vladimirov/
 └── mesocycle-1/
     ├── overview.md             ← обзор мезоцикла для тренера
     ├── week-1.md               ← калибровочная неделя
-    ├── week-2.md               ← с весами
+    ├── week-2.md               ← (создаётся после чек-ина)
     ├── week-3.md
     ├── week-4.md
     └── week-5.md               ← делоад
