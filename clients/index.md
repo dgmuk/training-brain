@@ -13,6 +13,7 @@
 | `nikita-zaharov-offline` | Никита (офлайн) | Никита Захаров | Сила и эстетика, акцент на жим | 🟢 Офлайн, Мезо 1, Нед 1 | 2026-05-29 | [[nikita-zaharov-offline/README]] |
 | `valeriy-lysyh-offline` | Валерий (офлайн) | Лысых Валерий | Сила и масса, без работы на похудение | 🟢 Офлайн, Мезо 1, Нед 1 | 2026-06-01 | [[valeriy-lysyh-offline/README]] |
 | `aleksandr-vladimirov` | Александр | Владимиров Александр | Набор массы, умеренная сила, тонус | 🟢 Мезо 1, Нед 2 | 2026-06-23 | [[aleksandr-vladimirov/README]] |
+| `aziz-tursunmatov` | Азиз | Азиз Турсунматов | Набор мышечной массы | 🟢 Мезо 1, Нед 1 | 2026-06-29 | [[aziz-tursunmatov/README]] |
 
 ---
 
