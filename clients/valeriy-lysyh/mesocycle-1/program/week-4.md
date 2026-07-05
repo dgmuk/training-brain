@@ -1,5 +1,5 @@
 ---
-client_id: valeriy-lysyh-offline
+client_id: valeriy-lysyh
 client_name: Валерий
 mesocycle: 1
 week: 4
