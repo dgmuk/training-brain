@@ -71,7 +71,7 @@ clients/
 │       ├── week-2.md ✓
 │       ├── week-3.md ✓
 │       └── week-4.md ✓
-├── nikita-zaharov-offline/
+├── nikita-zaharov/
 │   └── mesocycle-1/
 │       └── program/
 │           ├── week-1.md ✓

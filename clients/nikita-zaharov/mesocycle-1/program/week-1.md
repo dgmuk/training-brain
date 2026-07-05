@@ -1,5 +1,5 @@
 ---
-client_id: nikita-zaharov-offline
+client_id: nikita-zaharov
 client_name: Никита
 mesocycle: 1
 week: 1
