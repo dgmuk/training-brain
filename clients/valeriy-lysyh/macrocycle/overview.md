@@ -18,6 +18,8 @@
 
 **Сплит:** Full Body 3x (Пн / Ср / Пт), обоснование: [[strategy]]
 
+**Ротация изоляции:** default A/B с мезо 2 (мягкий режим) → [[../../../knowledge-base/methodology/isolation-rotation]]
+
 **Шаблон макроцикла:** [[../../../knowledge-base/macrocycle/strength-template]] как база, с поправками по [[../../../knowledge-base/methodology/aging-trainees]] (MRV минус ~33%, делоад каждые 4 нед, отдых и разминка длиннее, RPE на пике не выше 8).
 
 ---

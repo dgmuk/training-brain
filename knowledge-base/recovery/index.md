@@ -15,6 +15,7 @@
 | Активное восстановление | [[deload-protocols]] |
 | Суперкомпенсация | [[deload-protocols]] |
 | Признаки перетренированности | [[recovery-markers]] |
+| Авторегуляция → правки week-N | [[recovery-autoregulation]] |
 
 ---
 
@@ -56,8 +57,13 @@
 
 ---
 
+## Авторегуляция (операционный слой)
+
+Если есть жёлтые/красные маркеры в дневнике, не гадай: открой [[recovery-autoregulation]] (hold / ease / внеплановый делоад / illness / travel).
+
 ## Связи
 
 - [[../periodization/mesocycle-structure]] — роль делоада
+- [[recovery-autoregulation]] — если X, то Y в week-N
 - [[../nutrition/index]] — питание для восстановления
 - [[../volume-landmarks/index]] — корректировки MRV по сну

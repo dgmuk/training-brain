@@ -6,6 +6,18 @@
 
 ## 📋 Доступные скрипты
 
+### `generate_exercise_tags.py`
+
+**Назначение:** Пересобирает `knowledge-base/exercises/exercise-tags.md` по именам из `exercise-library.md` (эвристика primary/secondary/pattern/joints/sfr/role/equip).
+
+```bash
+python scripts/generate_exercise_tags.py
+```
+
+После генерации проверь спорные строки вручную (особенно core/func и hinge). При добавлении упражнения в library добавь теги или перезапусти скрипт.
+
+---
+
 ### `validate-exercises.py`
 
 **Назначение:** Проверяет все файлы `week-N.md` на соответствие библиотеке упражнений.

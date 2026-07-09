@@ -136,12 +136,12 @@ type: standard
 - Обратные разведения в тренажере «Бабочка» | [Видео](https://youtube.com/shorts/EZtgEu-STUs) | 4 x 12-15
 - Горизонтальная тяга в тренажере сидя | 4 x 12-15
 
-### Сгибание рук с EZ-грифом широким хватом
+### Сгибание рук с EZ грифом широким хватом
 [Видео](https://youtube.com/shorts/r17vxO5hJRA?feature=share)
 - 3 x 10-12 • 25/25/25 кг
 
 **Альтернативы:**
-- Сгибание рук с EZ-грифом обратным хватом | [Видео](https://youtube.com/shorts/3bJ8LHMMD-8?feature=share) | 3 x 10-12
+- Сгибание рук с EZ грифом обратным хватом | [Видео](https://youtube.com/shorts/3bJ8LHMMD-8?feature=share) | 3 x 10-12
 - Сгибание рук на нижнем блоке с канатной рукоятью | [Видео](https://youtube.com/shorts/V0Boiizgfe0?feature=share) | 3 x 10-12
 - Сгибание рук с гантелями сидя хватом «Молот» | [Видео](https://youtube.com/shorts/mX5RdEny6OQ) | 3 x 10-12
 

@@ -1,7 +1,7 @@
 ---
 Тема: Workflow приёма клиента — от анкеты до Недели 1
 Раздел: methodology
-Связи: [[mrv-personalization]] [[1rm-estimation]] [[weight-calibration-week-1]] [[return-after-break]] [[split-selection]] [[../contraindications/index]] [[../periodization/models]]
+Связи: [[mrv-personalization]] [[1rm-estimation]] [[weight-calibration-week-1]] [[return-after-break]] [[split-selection]] [[mobility-screen-intake]] [[training-frequency]] [[../contraindications/index]] [[../periodization/models]] [[../macrocycle/fat-loss-template]] [[../macrocycle/recomposition-template]]
 ---
 
 # Workflow приёма клиента
@@ -77,15 +77,21 @@
 - **Поясница** → [[../contraindications/lower-back]]
 - **Плечи** → [[../contraindications/shoulders]]
 - **Колени** → [[../contraindications/knees]]
-- **Возраст 50+** → [[../age-gender/age-50-plus]] (если создан)
+- **Тазобедренные** → [[../contraindications/hips]]
+- **Ноющие сухожилия** → [[../contraindications/tendinopathy-load-management]]
+- **Возраст 40+** → [[aging-trainees]]
 
 Если по правилам нужен медицинский допуск ([[../contraindications/medical-clearance]]) — указать клиенту.
 
-### 2.3. Расчёт персональных объёмных ориентиров
+### 2.3. Скрининг паттернов
+
+Провести [[mobility-screen-intake]] (присед, hinge, overhead, push). Цвета записать в profile. Жёлтый/красный влияет на выбор упражнений нед 1 и фильтр joints в [[../exercises/exercise-tags]].
+
+### 2.4. Расчёт персональных объёмных ориентиров
 
 См. [[mrv-personalization]]. Получаем индивидуальные MEV/MAV/MRV.
 
-### 2.4. Оценка стартовых рабочих весов
+### 2.5. Оценка стартовых рабочих весов
 
 Если в анкете есть достоверные силовые → использовать как стартовую оценку (см. [[1rm-estimation]] для пересчёта).
 
@@ -159,6 +165,7 @@
 В мезоцикле 1:
 - 5 недель с прогрессией объёма от MEV к MRV
 - Конкретные упражнения для каждого дня (с учётом оборудования и ограничений)
+- Якорные компаунды на весь мезо + таблица ротации изоляции A/B (или режим `off`/`fixed`, см. [[isolation-rotation]])
 - Альтернативы / замены
 - Маркеры экстренной корректировки
 

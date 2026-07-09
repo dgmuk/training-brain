@@ -16,6 +16,12 @@
 | [[1rm-testing-protocol]] | Прямой тест максимума на главном движении |
 | [[weight-calibration-week-1]] | Строим первую неделю клиента (без точных весов) |
 | [[exercise-selection]] | Отбор упражнений по SFR и паттернам движения |
+| [[training-frequency]] | Частота стимула на мышечную группу |
+| [[rest-intervals]] | Отдых между подходами в week-N |
+| [[rom-and-lengthened-bias]] | Амплитуда, длинные позиции, partials |
+| [[mobility-screen-intake]] | Скрининг присед/hinge/overhead/push до калибровки |
+| [[weak-point-playbooks]] | Акценты: ягодицы, спина, руки, дельты |
+| [[isolation-rotation]] | Ротация изоляции A/B внутри мезоцикла (разнообразие без хаоса) |
 | [[progression-rules]] | Решаем как менять веса/подходы между неделями |
 | [[proximity-to-failure]] | RIR по типам упражнений и фазам мезоцикла |
 | [[rpe-autoregulation]] | Программирование через RPE для среднего и продвинутого |

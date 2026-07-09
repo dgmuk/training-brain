@@ -17,6 +17,8 @@
 
 **Сплит:** Upper-Lower-Upper (Пн / Ср / Пт), обоснование: [[strategy]]
 
+**Ротация изоляции:** default A/B с мезо 2 → [[../../../knowledge-base/methodology/isolation-rotation]]
+
 **Шаблон макроцикла:** [[../../../knowledge-base/macrocycle/mass-gain-template]] как база, с включением элементов специализации на жиме по [[../../../knowledge-base/methodology/bench-specialization]] (базовая частота 2x/нед, в мезо 3-4 ассистенс под слабую точку).
 
 ---

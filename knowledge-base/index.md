@@ -9,11 +9,11 @@
 
 | Показатель | Значение |
 |------------|----------|
-| Последнее обновление | 2026-05-27 |
+| Последнее обновление | 2026-07-09 |
 | Разделов | 12 |
-| Страниц | 52+ |
-| Клиентов | 1 |
-| Шаблонов | 8 |
+| Страниц | 65+ |
+| Клиентов | см. [[../clients/index]] |
+| Шаблонов | 8+ |
 
 ---
 
@@ -28,6 +28,12 @@
 - [[methodology/1rm-testing-protocol]] — прямой тест максимума
 - [[methodology/weight-calibration-week-1]] — калибровочная Неделя 1 без весов
 - [[methodology/exercise-selection]] — отбор упражнений по SFR и паттернам
+- [[methodology/training-frequency]] — частота на мышечную группу
+- [[methodology/rest-intervals]] — отдых между подходами
+- [[methodology/rom-and-lengthened-bias]] — ROM и длинные позиции
+- [[methodology/mobility-screen-intake]] — скрининг паттернов до калибровки
+- [[methodology/weak-point-playbooks]] — акценты на отстающие группы
+- [[methodology/isolation-rotation]] — ротация изоляции A/B внутри мезоцикла
 - [[methodology/progression-rules]] — правила прогрессии нагрузки
 - [[methodology/proximity-to-failure]] — RIR по типам упражнений
 - [[methodology/rpe-autoregulation]] — программирование через RPE
@@ -51,8 +57,8 @@
 - [[macrocycle/structure]] — общая структура макроцикла
 - [[macrocycle/mass-gain-template]] — макроцикл под набор массы
 - [[macrocycle/strength-template]] — макроцикл под максимальную силу
-- *[fat-loss-template]* — *(создать при необходимости)*
-- *[recomposition-template]* — *(создать при необходимости)*
+- [[macrocycle/fat-loss-template]] — тренировочный макроцикл при снижении жира
+- [[macrocycle/recomposition-template]] — тренировочный макроцикл рекомпозиции
 
 ---
 
@@ -77,6 +83,7 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
 Биомеханика, техника, паттерны движения, замены.
 - [[exercises/index]] — каталог упражнений по группам
 - [[exercises/exercise-library]] — ⭐ каноническая библиотека имён и видео-ссылок
+- [[exercises/exercise-tags]] — ⭐ теги: мышцы, паттерн, суставы, SFR, equip
 - [[exercises/home-equipment]] — упражнения для дома и сплиты
 
 ---
@@ -89,7 +96,8 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
 - [[contraindications/lower-back]] — протокол при проблемах с поясницей
 - [[contraindications/shoulders]] — протокол при проблемах с плечом
 - [[contraindications/knees]] — протокол при проблемах с коленом
-- *[hips]* — *(создать при необходимости)*
+- [[contraindications/hips]] — протокол при проблемах с тазобедренным
+- [[contraindications/tendinopathy-load-management]] — ноющие сухожилия
 
 ---
 
@@ -98,6 +106,7 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
 - [[recovery/index]] — протоколы и принципы
 - [[recovery/deload-protocols]] — детальные протоколы делоада
 - [[recovery/recovery-markers]] — маркеры восстановления и перетрена
+- [[recovery/recovery-autoregulation]] — если X, то Y в week-N
 
 ---
 
@@ -163,6 +172,8 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
 | Построить макроцикл (6 мес) | [[macrocycle/structure]] |
 | Построить макроцикл под массу | [[macrocycle/mass-gain-template]] |
 | Построить макроцикл под силу | [[macrocycle/strength-template]] |
+| Построить макроцикл под жиросжигание | [[macrocycle/fat-loss-template]] |
+| Построить макроцикл рекомпозиции | [[macrocycle/recomposition-template]] |
 | Построить мезоцикл | [[periodization/mesocycle-structure]] |
 | Построить силовой блок | [[periodization/strength-block]] |
 | Подвести клиента к тесту 1RM | [[methodology/peaking-protocols]] |
@@ -170,6 +181,11 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
 | Программировать через RPE | [[methodology/rpe-autoregulation]] |
 | Специализация на жиме | [[methodology/bench-specialization]] |
 | Отобрать упражнения для гипертрофии | [[methodology/exercise-selection]] |
+| Частота на группу / отдых / ROM | [[methodology/training-frequency]] · [[methodology/rest-intervals]] · [[methodology/rom-and-lengthened-bias]] |
+| Скрининг до калибровки | [[methodology/mobility-screen-intake]] |
+| Акцент на отстающую (плейбук) | [[methodology/weak-point-playbooks]] |
+| Теги упражнений (сустав, SFR) | [[exercises/exercise-tags]] |
+| Авторегуляция по чек-ину | [[recovery/recovery-autoregulation]] |
 | Назначить RIR на упражнения | [[methodology/proximity-to-failure]] |
 | Применить дроп-сеты, rest-pause, myo-reps | [[methodology/intensification-techniques]] |
 | Построить блок специализации на отстающую группу | [[methodology/specialization-phase]] |
@@ -195,6 +211,17 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
 - *(пусто)*
 
 ---
+
+## 📝 Что добавлено в обновлении 2026-07-09
+
+- **Теги упражнений** — [[exercises/exercise-tags]] + `scripts/generate_exercise_tags.py` (223 упражнения)
+- **Частота / отдых / ROM** — [[methodology/training-frequency]], [[methodology/rest-intervals]], [[methodology/rom-and-lengthened-bias]]
+- **Скрининг intake** — [[methodology/mobility-screen-intake]] (связь с калибровкой)
+- **Макро fat-loss / recomp** — [[macrocycle/fat-loss-template]], [[macrocycle/recomposition-template]]
+- **Суставы** — [[contraindications/hips]], [[contraindications/tendinopathy-load-management]]
+- **Weak points** — [[methodology/weak-point-playbooks]]
+- **Авторегуляция recovery** — [[recovery/recovery-autoregulation]]
+- **Структура клиентов** — [[../clients/STRUCTURE]]
 
 ## 📝 Что добавлено в обновлении 2026-05-27
 

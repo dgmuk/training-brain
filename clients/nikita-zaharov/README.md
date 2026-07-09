@@ -44,15 +44,13 @@ clients/nikita-zaharov/
 ├── macrocycle/
 │   ├── overview.md             ← 6-месячный план
 │   └── strategy.md             ← обоснование выбора моделей
-├── mesocycle-1/
-│   ├── overview.md             ← обзор мезо 1 (завершён)
-│   ├── program/                ← программы нед 1-5 (офлайн-архив)
-│   └── fakt/                   ← фактические логи офлайн-периода
-└── mesocycle-2/
-    ├── overview.md             ← обзор мезо 2
-    ├── week-6.md               ← калибровка (текущая)
-    ├── week-7.md               ← (ожидает)
-    └── ...
+├── mesocycle-1/                ← завершён (офлайн-архив нед 1-5)
+│   ├── overview.md
+│   ├── week-1.md … week-5.md
+└── mesocycle-2/                ← активный
+    ├── overview.md
+    ├── week-6.md               ← текущая / калибровка
+    └── …
 ```
 
 ---

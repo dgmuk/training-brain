@@ -2,7 +2,7 @@
 Тема: Алгоритм отбора упражнений для гипертрофии (SFR, стимул, паттерны)
 Раздел: methodology
 Источник: Helms et al. (2018) | Schoenfeld (Science and Development of Hypertrophy, 2016, 2020) | Wolf et al. (2023, мета-анализ длинных позиций) | RP Strength | Mike Israetel | Greg Nuckols
-Связи: [[../volume-landmarks/volume-landmarks]] [[../volume-landmarks/fractional-sets]] [[split-selection]] [[progression-rules]] [[../exercises/exercise-library]] [[../exercises/home-equipment]] [[specialization-phase]] [[intensification-techniques]]
+Связи: [[../volume-landmarks/volume-landmarks]] [[../volume-landmarks/fractional-sets]] [[split-selection]] [[progression-rules]] [[../exercises/exercise-library]] [[../exercises/exercise-tags]] [[../exercises/home-equipment]] [[specialization-phase]] [[weak-point-playbooks]] [[rom-and-lengthened-bias]] [[training-frequency]] [[intensification-techniques]]
 ---
 
 # Отбор упражнений для гипертрофии
@@ -322,6 +322,8 @@ SFR-проверка, все упражнения с высоким или ср�
 
 Часть тренеров меняют упражнения каждую неделю «для разнообразия», другая часть держит одни и те же по 6 месяцев. Оба подхода неоптимальны.
 
+**Плановое разнообразие внутри мезо:** для изоляции и лёгкого акцессуара используй схему **недель A/B** из [[isolation-rotation]]. Якорные компаунды в мезо не ротируй, изоляцию чередуй по таблице в `mesocycle-N/overview.md`. Это даёт клиенту новизну без потери прогрессии. Режим можно отключить для опытных клиентов или по указанию тренера.
+
 ### Менять стоит когда
 
 - Прогрессия на упражнении стопорится 2-3 недели подряд при адекватном восстановлении
@@ -336,6 +338,7 @@ SFR-проверка, все упражнения с высоким или ср�
 - Клиент только освоил технику (нужно 4-6 недель работы для нейромышечной адаптации)
 - В пиковой неделе мезоцикла или в фазе реализации силового блока
 - Если новое упражнение требует освоения техники с нуля, в середине мезоцикла это плохо
+- Речь об **якорном компаунде** внутри мезо (для него ротация A/B не применяется, см. [[isolation-rotation]])
 
 ### Сколько менять
 
@@ -376,5 +379,6 @@ SFR-проверка, все упражнения с высоким или ср�
 - [[../exercises/home-equipment]] — варианты под домашнее оборудование
 - [[../female-physiology/hypertrophy-women]] — отбор для женщин (акцент на ягодицы)
 - [[aging-trainees]] — отбор для возрастных (приоритет SFR)
+- [[isolation-rotation]] — плановая ротация изоляции A/B внутри мезоцикла
 
 Источник, [[../research/index]]

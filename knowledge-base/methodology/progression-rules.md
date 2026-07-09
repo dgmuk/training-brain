@@ -2,7 +2,7 @@
 Тема: Правила прогрессии нагрузки между неделями
 Раздел: methodology
 Источник: Israetel et al. (RP) | Helms et al. (2018) | Schoenfeld (2016)
-Связи: [[1rm-estimation]] [[weight-calibration-week-1]] [[../volume-landmarks/volume-landmarks]] [[../periodization/mesocycle-structure]]
+Связи: [[1rm-estimation]] [[weight-calibration-week-1]] [[../volume-landmarks/volume-landmarks]] [[../periodization/mesocycle-structure]] [[../recovery/recovery-autoregulation]] [[rest-intervals]] [[training-frequency]]
 ---
 
 # Правила прогрессии нагрузки
@@ -29,6 +29,8 @@
 ```
 
 Параметры меняются **не одновременно**: на каждой неделе — обычно один параметр на упражнение.
+
+> **Слоты с ротацией A/B:** если в `mesocycle-N/overview.md` для изоляции заданы варианты A и B, прогрессию считай по **последней неделе с тем же вариантом**, а не по прошлой неделе с другим упражнением. См. [[isolation-rotation]].
 
 ---
 
@@ -206,6 +208,7 @@
 - [[rpe-autoregulation]] — продвинутая автрорегуляция через RPE для силового тренинга
 - [[proximity-to-failure]] — RIR по типам упражнений и фазам
 - [[exercise-selection]] — отбор упражнений для гипертрофии
+- [[isolation-rotation]] — прогрессия при чередовании изоляции A/B
 - [[intensification-techniques]] — дроп-сеты, rest-pause, myo-reps
 - [[specialization-phase]] — специализация на отстающую группу
 - [[peaking-protocols]] — особенности прогрессии в пикинге
