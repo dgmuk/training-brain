@@ -45,7 +45,7 @@
 - [[methodology/cardio-prescription]] — кардио, зоны и дозировка
 - [[methodology/concurrent-training]] — параллельная тренировка силы и выносливости
 - [[methodology/minimalist-programming]] — минимализм при дефиците времени
-- [[methodology/adherence-protocols]] — поведенческое сопровождение клиента
+- [[methodology/adherence-protocols]] — поведенческое сопровождение, статусы ok/watch/talk/critical (ПРАВИЛО №6 в CLAUDE)
 - [[methodology/return-after-break]] — возврат после перерыва >3 мес
 - [[methodology/split-selection]] — выбор тренировочного сплита
 
@@ -253,7 +253,7 @@ MEV / MAV / MRV по мышечным группам. Дробный метод.
   - [[methodology/cardio-prescription]] — кардио, зоны и дозировка
   - [[methodology/concurrent-training]] — параллельная тренировка силы и выносливости
   - [[methodology/minimalist-programming]] — минимализм при дефиците времени
-  - [[methodology/adherence-protocols]] — поведенческое сопровождение клиента
+  - [[methodology/adherence-protocols]] — поведенческое сопровождение, статусы ok/watch/talk/critical (ПРАВИЛО №6 в CLAUDE)
 
 ## 📝 Что добавлено в обновлении 2026-05-19
 
