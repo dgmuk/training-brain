@@ -14,6 +14,7 @@
 | `aleksandr-vladimirov` | Александр | Владимиров Александр | Набор массы, умеренная сила, тонус | 🟡 Мезо 1, Нед 4 (watch) | 2026-06-23 | [[aleksandr-vladimirov/README]] |
 | `aziz-tursunmatov` | Азиз | Азиз Турсунматов | Набор мышечной массы | 🟢 Мезо 1, Нед 3 | 2026-06-29 | [[aziz-tursunmatov/README]] |
 | `ekaterina-funtova` | Екатерина | Фунтова Екатерина | Комфорт / тонус (comfort_bank) | 🟢 Мезо 2, Нед 5 (W1) | 2026-07-18 | [[ekaterina-funtova/README]] |
+| `tatyana-karmanova` | Татьяна | Карманова Татьяна | Похудение / % жира (soft progression) | 🟢 Мезо 1, Нед 1 (калибровка) | 2026-07-18 | [[tatyana-karmanova/README]] |
 
 > **Канон папок:** [[STRUCTURE]]. Не создавать `program/` и кириллические пути.  
 > **Legacy-редирект:** `фунтова-екатерина/` → рабочая папка `ekaterina-funtova/` (режим [[../knowledge-base/methodology/comfort-bank-rotation]]).  
