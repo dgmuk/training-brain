@@ -13,9 +13,10 @@
 | `valeriy-lysyh` | Валерий | Лысых Валерий | Сила и масса | 🟢 Мезо 2, Нед 7 | 2026-06-01 | [[valeriy-lysyh/README]] |
 | `aleksandr-vladimirov` | Александр | Владимиров Александр | Набор массы, умеренная сила, тонус | 🟡 Мезо 1, Нед 4 (watch) | 2026-06-23 | [[aleksandr-vladimirov/README]] |
 | `aziz-tursunmatov` | Азиз | Азиз Турсунматов | Набор мышечной массы | 🟢 Мезо 1, Нед 3 | 2026-06-29 | [[aziz-tursunmatov/README]] |
+| `ekaterina-funtova` | Екатерина | Фунтова Екатерина | Комфорт / тонус (comfort_bank) | 🟢 Мезо 2, Нед 5 (W1) | 2026-07-18 | [[ekaterina-funtova/README]] |
 
 > **Канон папок:** [[STRUCTURE]]. Не создавать `program/` и кириллические пути.  
-> **Вне реестра (не трогать):** `фунтова-екатерина/` — ручные тренировки, вне Схемы А/Б.  
+> **Legacy-редирект:** `фунтова-екатерина/` → рабочая папка `ekaterina-funtova/` (режим [[../knowledge-base/methodology/comfort-bank-rotation]]).  
 > Запись `dimon` снята: папки в репозитории нет.
 
 ---

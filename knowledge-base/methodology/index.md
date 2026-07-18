@@ -22,6 +22,7 @@
 | [[mobility-screen-intake]] | Скрининг присед/hinge/overhead/push до калибровки |
 | [[weak-point-playbooks]] | Акценты: ягодицы, спина, руки, дельты |
 | [[isolation-rotation]] | Ротация изоляции A/B внутри мезоцикла (разнообразие без хаоса) |
+| [[comfort-bank-rotation]] | Клиент без гонки весов: банк недель, RIR 3–4, hold по умолчанию |
 | [[progression-rules]] | Решаем как менять веса/подходы между неделями |
 | [[proximity-to-failure]] | RIR по типам упражнений и фазам мезоцикла |
 | [[rpe-autoregulation]] | Программирование через RPE для среднего и продвинутого |
