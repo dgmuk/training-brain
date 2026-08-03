@@ -13,7 +13,7 @@
 | **Цель** | Похудение / снижение % жира + сохранение мышц |
 | **Режим** | `soft_progression_fat_loss` |
 | **Старт** | 2026-07-18 |
-| **Сейчас** | Мезо 1 / Неделя 1 (калибровка) |
+| **Сейчас** | Мезо 1 / Неделя 3 |
 
 ---
 
@@ -34,7 +34,7 @@
 
 | # | Название | Статус |
 |---|----------|--------|
-| 1 | Fat-loss вход, FB 3x | 🟢 Нед 1 |
+| 1 | Fat-loss вход, FB 3x | 🟢 Нед 3 |
 | 2–4 | По макро | ⏳ |
 
 ---
@@ -51,7 +51,9 @@ clients/tatyana-karmanova/
 │   └── strategy.md
 └── mesocycle-1/
     ├── overview.md
-    └── week-1.md
+    ├── week-1.md
+    ├── week-2.md
+    └── week-3.md
 ```
 
 ---
@@ -76,4 +78,4 @@ clients/tatyana-karmanova/
 tatyana-karmanova
 ```
 
-Текущая программа: `mesocycle-1/week-1.md`
+Текущая программа: `mesocycle-1/week-3.md`
