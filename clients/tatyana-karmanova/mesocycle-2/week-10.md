@@ -59,7 +59,7 @@ address_form: vy
 **Альтернативы:**
 - Жим от груди в рычажном тренажере сидя | [Видео](https://youtube.com/shorts/SAPyFfRaUfc) | 2 x 8-10
 - Жим штанги в тренажере Смита на наклонной скамье | [Видео](https://youtube.com/shorts/RXQtZuY84fI) | 2 x 8-10
-- Сведение рук в тренажере «Бабушка» (Pec-Deck) | [Видео](https://youtube.com/shorts/KmApvQRN0-w) | 2 x 10-12
+- Сведение рук в тренажере «Бабочка» (Pec-Deck) | [Видео](https://youtube.com/shorts/KmApvQRN0-w) | 2 x 10-12
 
 ### Вертикальная тяга к груди средним хватом
 [Видео](https://youtube.com/shorts/Mq7fdbETZ-M)
@@ -145,7 +145,7 @@ address_form: vy
 - Жим в тренажере Смита сидя | [Видео](https://youtube.com/shorts/o50WOesRdKQ) | 2 x 8-10
 - Махи гантелей в стороны стоя | [Видео](https://youtube.com/shorts/6CoCBS6PPvE) | 2 x 12-15
 
-### Обратные разведения в тренажере «Бабушка»
+### Обратные разведения в тренажере «Бабочка»
 [Видео](https://youtube.com/shorts/EZtgEu-STUs)
 - 2 x 12-15 • 20/20 кг
 
@@ -191,7 +191,7 @@ address_form: vy
 **Альтернативы:**
 - Жим штанги в тренажере Смита на наклонной скамье | [Видео](https://youtube.com/shorts/RXQtZuY84fI) | 2 x 10-12
 - Жим гантелей лежа на горизонтальной скамье | [Видео](https://youtube.com/shorts/A223w-ejUus) | 2 x 10-12
-- Сведение рук в тренажере «Бабушка» (Pec-Deck) | [Видео](https://youtube.com/shorts/KmApvQRN0-w) | 2 x 10-12
+- Сведение рук в тренажере «Бабочка» (Pec-Deck) | [Видео](https://youtube.com/shorts/KmApvQRN0-w) | 2 x 10-12
 
 ### Вертикальная тяга блока узким хватом
 [Видео](https://youtube.com/shorts/X93DSx05Fuw)
