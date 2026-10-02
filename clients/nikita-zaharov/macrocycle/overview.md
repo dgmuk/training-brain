@@ -1,4 +1,4 @@
-# 📅 Макроцикл — 6 месяцев
+﻿# 📅 Макроцикл — 6 месяцев
 ## Никита Захаров | Сила и эстетика, акцент на жим
 
 > [[../profile]] | [[../README]] | [[../../../knowledge-base/macrocycle/structure]] | [[../../../knowledge-base/macrocycle/mass-gain-template]] | [[../../../knowledge-base/methodology/bench-specialization]]
@@ -15,7 +15,7 @@
 
 **Выбранная общая модель периодизации:** DUP (волнообразная) внутри каждого мезоцикла по двум жимовым дням, блоковая прогрессия (BP) между мезоциклами по объёму и интенсивности.
 
-**Сплит:** Upper-Lower-Upper (Пн / Ср / Пт), обоснование: [[strategy]]
+**Сплит:** Full body 2 раза в неделю (Пн / Ср / Пт), обоснование: [[strategy]]
 
 **Ротация изоляции:** default A/B с мезо 2 → [[../../../knowledge-base/methodology/isolation-rotation]]
 
