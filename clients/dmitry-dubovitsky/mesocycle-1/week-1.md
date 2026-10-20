@@ -33,28 +33,58 @@ rotation: off
 - 2 × 10–12 • 0/0 кг
 - Стопы устойчиво на платформе, поясница не отрывается. Не уходи так глубоко, чтобы таз начал подворачиваться.
 
+**Альтернативы:**
+- Жим платформы одной ногой | [Видео](https://youtube.com/shorts/slQAMsy1I04) | 2 x 10-12
+- Гакк-приседания в тренажере | [Видео](https://youtube.com/shorts/4WfvJ8nqcpc) | 2 x 10-12
+- Приседания в тренажере Смита | [Видео](https://youtube.com/shorts/Q5lft4s2gTw) | 2 x 10-12
+
 ### Жим от груди в рычажном тренажере сидя
 [Видео](https://youtube.com/shorts/SAPyFfRaUfc)
 - 2 × 10–12 • 0/0 кг
 - Рёбра держи над тазом, вес не выталкивай прогибом поясницы.
+
+**Альтернативы:**
+- Жим сидя в блочном тренажере на грудь | [Видео](https://youtube.com/shorts/unf8GIZxeDI) | 2 x 10-12
+- Жим штанги лежа в тренажере Смита | [Видео](https://youtube.com/shorts/tRNmwbzonoQ) | 2 x 10-12
+- Жим гантелей лежа на горизонтальной скамье | [Видео](https://youtube.com/shorts/A223w-ejUus) | 2 x 10-12
 
 ### Горизонтальная тяга в тренажере сидя
 [Видео](https://youtube.com/shorts/rzGpNA9JE7c)
 - 2 × 10–12 • 0/0 кг
 - Начинай движение лопатками, корпусом назад не тянись.
 
+**Альтернативы:**
+- Горизонтальная тяга в рычажном тренажере сидя | [Видео](https://youtube.com/shorts/nFV0FM_ntXE) | 2 x 10-12
+- Горизонтальная тяга нейтральным хватом | [Видео](https://youtube.com/shorts/Mk48L4IXTGA) | 2 x 10-12
+- Горизонтальная тяга одной рукой в тренажере | [Видео](https://youtube.com/shorts/MBOWmhVmYfM) | 2 x 10-12
+
 ### Сгибание ног сидя
 [Видео](https://youtube.com/shorts/ZzxSPZ64Nhs)
 - 2 × 12–15 • 0/0 кг
+
+**Альтернативы:**
+- Сгибание ног в тренажере лежа | [Видео](https://youtube.com/shorts/UZMPcTn8AkE) | 2 x 12-15
+- Сгибание ног с гантелью лежа | [Видео](https://youtu.be/5QG9uyWnf8A) | 2 x 12-15
+- Жим ногами в тренажере | [Видео](https://youtube.com/shorts/_JFZn8Fa1Ew) | 2 x 12-15
 
 ### Face Pulls
 [Видео](https://youtube.com/shorts/VHRbhfJnE0U)
 - 2 × 12–15 • 0/0 кг
 
+**Альтернативы:**
+- Обратные разведения в тренажере «Бабочка» | [Видео](https://youtube.com/shorts/EZtgEu-STUs) | 2 x 12-15
+- Махи с гантелями в наклоне | [Видео](https://youtu.be/CD_EohqoAeI) | 2 x 12-15
+- Отведение руки в кроссовере | [Видео](https://youtube.com/shorts/EIVJkQXOFOg) | 2 x 12-15
+
 ### Обратные скручивания
 [Видео](https://youtube.com/shorts/qoP-kvprYOE)
 - 2 × 8–12 • вес тела
 - Делай медленно, поясницу не прогибай.
+
+**Альтернативы:**
+- Планка на локтях | [Видео](https://youtu.be/7jCkJrccKQ0) | 2 x 20-30 сек
+- Подъем коленей в упоре на брусьях | [Видео](https://youtube.com/shorts/ON7FV5rkuto) | 2 x 8-12
+- Скручивания на пресс в тренажере сидя | [Видео](https://youtube.com/shorts/isz8onxtt1c) | 2 x 8-12
 
 ## День 2: Full Body B
 
@@ -64,28 +94,58 @@ rotation: off
 [Видео](https://youtube.com/shorts/YSUz5JJd9hI)
 - 2 × 12–15 • 0/0 кг
 
+**Альтернативы:**
+- Жим ногами в тренажере | [Видео](https://youtube.com/shorts/_JFZn8Fa1Ew) | 2 x 12-15
+- Жим платформы одной ногой | [Видео](https://youtube.com/shorts/slQAMsy1I04) | 2 x 12-15
+- Гакк-приседания в тренажере | [Видео](https://youtube.com/shorts/4WfvJ8nqcpc) | 2 x 12-15
+
 ### Вертикальная тяга блока параллельным хватом
 [Видео](https://youtube.com/shorts/_8wNoOLS4QY)
 - 2 × 10–12 • 0/0 кг
 - Тяни локти вниз, не отклоняйся назад и не прогибай поясницу.
 
+**Альтернативы:**
+- Вертикальная тяга блока узким хватом | [Видео](https://youtube.com/shorts/X93DSx05Fuw) | 2 x 10-12
+- Вертикальная тяга широким нейтральным хватом | [Видео](https://youtube.com/shorts/gyPhuXh58LY) | 2 x 10-12
+- Вертикальная тяга в рычажном тренажере | [Видео](https://youtube.com/shorts/vF7BTw1IQuQ) | 2 x 10-12
+
 ### Жим сидя в блочном тренажере на грудь
 [Видео](https://youtube.com/shorts/unf8GIZxeDI)
 - 2 × 10–12 • 0/0 кг
+
+**Альтернативы:**
+- Жим от груди в рычажном тренажере сидя | [Видео](https://youtube.com/shorts/SAPyFfRaUfc) | 2 x 10-12
+- Жим в тренажере узким нейтральным хватом | [Видео](https://youtube.com/shorts/NAFGiANVn9U) | 2 x 10-12
+- Жим гантелей лежа на наклонной скамье | [Видео](https://youtube.com/shorts/Vr6g2jgcB7k) | 2 x 10-12
 
 ### Ягодичный мост в тренажере
 [Видео](https://youtube.com/shorts/Qf2hgaiYh3g)
 - 2 × 10–12 • 0/0 кг
 - Вверху остановись, когда корпус и бёдра образуют прямую линию. Не дожимай движение поясницей.
 
+**Альтернативы:**
+- Ягодичный мост со штангой | [Видео](https://youtube.com/shorts/cnD4bMCmWbo) | 2 x 10-12
+- Ягодичный мост на полу | [Видео](https://youtube.com/shorts/WozY6RMdOak) | 2 x 10-12
+- Разгибание бедра в тренажере стоя | [Видео](https://youtube.com/shorts/7JkCJMvSSA8) | 2 x 10-12
+
 ### Махи гантелей в стороны стоя
 [Видео](https://youtube.com/shorts/6CoCBS6PPvE)
 - 2 × 12–15 • 0/0 кг
+
+**Альтернативы:**
+- Махи с гантелями сидя | [Видео](https://youtube.com/shorts/sJ1EdTJBbFo) | 2 x 12-15
+- Отведение руки в кроссовере | [Видео](https://youtube.com/shorts/EIVJkQXOFOg) | 2 x 12-15
+- Отведение руки с гантелью с наклоном | [Видео](https://youtube.com/shorts/zjYqnpE-Ng0) | 2 x 12-15
 
 ### Планка на локтях
 [Видео](https://youtu.be/7jCkJrccKQ0)
 - 2 × 20–30 сек • вес тела
 - Держи ровную линию от плеч до пяток. Заканчивай подход раньше, чем поясница начнёт проваливаться.
+
+**Альтернативы:**
+- Обратные скручивания | [Видео](https://youtube.com/shorts/qoP-kvprYOE) | 2 x 8-12
+- Скручивания на пресс в тренажере сидя | [Видео](https://youtube.com/shorts/isz8onxtt1c) | 2 x 8-12
+- Подъем коленей в упоре на брусьях | [Видео](https://youtube.com/shorts/ON7FV5rkuto) | 2 x 8-12
 
 ## День 3: Full Body C
 
@@ -95,25 +155,55 @@ rotation: off
 [Видео](https://youtube.com/shorts/_JFZn8Fa1Ew)
 - 2 × 10–12 • 0/0 кг
 
+**Альтернативы:**
+- Жим платформы одной ногой | [Видео](https://youtube.com/shorts/slQAMsy1I04) | 2 x 10-12
+- Гакк-приседания в тренажере | [Видео](https://youtube.com/shorts/4WfvJ8nqcpc) | 2 x 10-12
+- Приседания в тренажере Смита | [Видео](https://youtube.com/shorts/Q5lft4s2gTw) | 2 x 10-12
+
 ### Жим в тренажере узким нейтральным хватом
 [Видео](https://youtube.com/shorts/NAFGiANVn9U)
 - 2 × 10–12 • 0/0 кг
+
+**Альтернативы:**
+- Жим от груди в рычажном тренажере сидя | [Видео](https://youtube.com/shorts/SAPyFfRaUfc) | 2 x 10-12
+- Жим сидя в блочном тренажере на грудь | [Видео](https://youtube.com/shorts/unf8GIZxeDI) | 2 x 10-12
+- Жим гантелей лежа на горизонтальной скамье | [Видео](https://youtube.com/shorts/A223w-ejUus) | 2 x 10-12
 
 ### Горизонтальная тяга в рычажном тренажере сидя
 [Видео](https://youtube.com/shorts/nFV0FM_ntXE)
 - 2 × 10–12 • 0/0 кг
 
+**Альтернативы:**
+- Горизонтальная тяга в тренажере сидя | [Видео](https://youtube.com/shorts/rzGpNA9JE7c) | 2 x 10-12
+- Горизонтальная тяга нейтральным хватом | [Видео](https://youtube.com/shorts/Mk48L4IXTGA) | 2 x 10-12
+- Горизонтальная тяга одной рукой в тренажере | [Видео](https://youtube.com/shorts/MBOWmhVmYfM) | 2 x 10-12
+
 ### Сгибание ног в тренажере лежа
 [Видео](https://youtube.com/shorts/UZMPcTn8AkE)
 - 2 × 12–15 • 0/0 кг
+
+**Альтернативы:**
+- Сгибание ног сидя | [Видео](https://youtube.com/shorts/ZzxSPZ64Nhs) | 2 x 12-15
+- Сгибание ног с гантелью лежа | [Видео](https://youtu.be/5QG9uyWnf8A) | 2 x 12-15
+- Жим ногами в тренажере | [Видео](https://youtube.com/shorts/_JFZn8Fa1Ew) | 2 x 12-15
 
 ### Обратные разведения в тренажере «Бабочка»
 [Видео](https://youtube.com/shorts/EZtgEu-STUs)
 - 2 × 12–15 • 0/0 кг
 
+**Альтернативы:**
+- Face Pulls | [Видео](https://youtube.com/shorts/VHRbhfJnE0U) | 2 x 12-15
+- Махи с гантелями в наклоне | [Видео](https://youtu.be/CD_EohqoAeI) | 2 x 12-15
+- Махи с гантелями сидя | [Видео](https://youtube.com/shorts/sJ1EdTJBbFo) | 2 x 12-15
+
 ### Обратные скручивания
 [Видео](https://youtube.com/shorts/qoP-kvprYOE)
 - 2 × 8–12 • вес тела
+
+**Альтернативы:**
+- Планка на локтях | [Видео](https://youtu.be/7jCkJrccKQ0) | 2 x 20-30 сек
+- Подъем коленей в упоре на брусьях | [Видео](https://youtube.com/shorts/ON7FV5rkuto) | 2 x 8-12
+- Скручивания на пресс в тренажере сидя | [Видео](https://youtube.com/shorts/isz8onxtt1c) | 2 x 8-12
 
 **Заминка после каждой тренировки:** 5 минут спокойной ходьбы и лёгкая растяжка без боли. Отдых между подходами: 90-120 секунд в жимах и тягах, 60-90 секунд в остальных упражнениях.
 
