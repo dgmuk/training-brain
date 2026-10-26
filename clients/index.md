@@ -11,7 +11,7 @@
 | `dmitry-dubovitsky` | Дмитрий | Дмитрий Дубовицкий | Набор мышечной массы и базовая сила | 🟢 Мезо 1, Нед 1 (калибровка) | 2026-10-19 | [[dmitry-dubovitsky/README]] |
 | `dmitry-mukhin` | Дмитрий | Дмитрий Мухин | Набор массы | 🟢 Мезо 2, Нед 8 | 2026-05-19 | [[dmitry-mukhin/README]] |
 | `nikita-zaharov` | Никита | Никита Захаров | Сила и эстетика, акцент на грудь | 🟡 Мезо 1, Нед 1, 2x full body | 2026-10-02 | [[nikita-zaharov/README]] |
-| `valeriy-lysyh` | Валерий | Лысых Валерий | Сила и масса | 🟢 Мезо 4, Нед 19 (мягкий пик) | 2026-06-01 | [[valeriy-lysyh/README]] |
+| `valeriy-lysyh` | Валерий | Лысых Валерий | Сила и масса | 🟢 Мезо 4, Нед 20 (делоад) | 2026-06-01 | [[valeriy-lysyh/README]] |
 | `aleksandr-vladimirov` | Александр | Владимиров Александр | Набор массы, умеренная сила, тонус | 🟡 Мезо 1, Нед 4 (watch) | 2026-06-23 | [[aleksandr-vladimirov/README]] |
 | `aziz-tursunmatov` | Азиз | Азиз Турсунматов | Набор мышечной массы | 🟢 Мезо 2, Нед 9 (spine-safe) | 2026-06-29 | [[aziz-tursunmatov/README]] |
 | `ekaterina-funtova` | Екатерина | Фунтова Екатерина | Комфорт / тонус (comfort_bank) | 🟢 Мезо 2, Нед 8 (W4) | 2026-07-18 | [[ekaterina-funtova/README]] |
