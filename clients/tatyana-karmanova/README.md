@@ -13,7 +13,7 @@
 | **Цель** | Похудение / снижение % жира + сохранение мышц |
 | **Режим** | `soft_progression_fat_loss` |
 | **Старт** | 2026-07-18 |
-| **Сейчас** | Мезо 2 / Неделя 9 |
+| **Сейчас** | Мезо 3 / Неделя 15 (делоад) |
 
 ---
 
@@ -27,7 +27,8 @@
 | Стратегия | [[macrocycle/strategy]] |
 | Мезо 1 | [[mesocycle-1/overview]] |
 | Мезо 2 | [[mesocycle-2/overview]] |
-| Текущая неделя | [[mesocycle-2/week-9]] |
+| Мезо 3 | [[mesocycle-3/overview]] |
+| Текущая неделя | [[mesocycle-3/week-15]] |
 
 ---
 
@@ -36,8 +37,9 @@
 | # | Название | Статус |
 |---|----------|--------|
 | 1 | Fat-loss вход, FB 3x | ✅ Завершён (нед 1–5) |
-| 2 | Fat-loss удержание силы, FB 3x | 🟢 Нед 9 |
-| 3–5 | По макро | ⏳ |
+| 2 | Fat-loss удержание силы, FB 3x | ✅ Завершён (нед 6-10) |
+| 3 | Fat-loss удержание силы, FB 3x | 🟢 Нед 15, делоад |
+| 4-5 | По макро | ⏳ |
 
 ---
 
@@ -54,9 +56,12 @@ clients/tatyana-karmanova/
 ├── mesocycle-1/
 │   ├── overview.md
 │   └── week-1 … week-5
-└── mesocycle-2/
+├── mesocycle-2/
+│   ├── overview.md
+│   └── week-6 ... week-10
+└── mesocycle-3/
     ├── overview.md
-    └── week-6.md
+    └── week-11 ... week-15
 ```
 
 ---
@@ -67,9 +72,9 @@ clients/tatyana-karmanova/
 2. Мягкая прогрессия весов (не pure hold).  
 3. Колени: knee-safe упражнения.  
 4. 48 лет: делоад каждые 5 нед, без RIR 0.  
-5. Continuous week: мезо 2 = week 6–10.  
+5. Continuous week: мезо 3 = week 11-15.
 6. **Обращение: на Вы** (`address_form: vy`).  
-7. В каждой `week-N.md` блок **Питание / калории** (1700–1900 ккал, белок 140–160 г).  
+7. В каждой `week-N.md` блок **Питание / калории** (1700–1900 ккал, белок 140–160 г, на делоаде 1900-2100 ккал).
 8. Икры: fixed сидя (факт клиента нед 4–5).
 
 Полный контракт для ИИ: [[profile]].
@@ -82,4 +87,4 @@ clients/tatyana-karmanova/
 tatyana-karmanova
 ```
 
-Текущая программа: `mesocycle-2/week-9.md`
+Текущая программа: `mesocycle-3/week-15.md`
