@@ -7,7 +7,7 @@ week_in_mesocycle: 1
 period_start: 2026-10-19
 period_end: 2026-10-25
 type: calibration
-rotation: off
+rotation: A
 ---
 
 # Неделя 1: калибровка
