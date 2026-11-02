@@ -13,7 +13,7 @@
 | **Цель** | Похудение / снижение % жира + сохранение мышц |
 | **Режим** | `soft_progression_fat_loss` |
 | **Старт** | 2026-07-18 |
-| **Сейчас** | Мезо 3 / Неделя 15 (делоад) |
+| **Сейчас** | Мезо 4 / Неделя 16 |
 
 ---
 
@@ -28,6 +28,7 @@
 | Мезо 1 | [[mesocycle-1/overview]] |
 | Мезо 2 | [[mesocycle-2/overview]] |
 | Мезо 3 | [[mesocycle-3/overview]] |
+| Мезо 4 | [[mesocycle-4/overview]] |
 | Текущая неделя | [[mesocycle-3/week-15]] |
 
 ---
@@ -38,8 +39,9 @@
 |---|----------|--------|
 | 1 | Fat-loss вход, FB 3x | ✅ Завершён (нед 1–5) |
 | 2 | Fat-loss удержание силы, FB 3x | ✅ Завершён (нед 6-10) |
-| 3 | Fat-loss удержание силы, FB 3x | 🟢 Нед 15, делоад |
-| 4-5 | По макро | ⏳ |
+| 3 | Fat-loss удержание силы, FB 3x | ✅ Завершён (нед 11-15, 2/3 watch) |
+| 4 | Fat-loss выход к поддержанию, FB 3x | 🟢 Нед 16 |
+| 5 | По макро | ⏳ |
 
 ---
 
@@ -59,9 +61,12 @@ clients/tatyana-karmanova/
 ├── mesocycle-2/
 │   ├── overview.md
 │   └── week-6 ... week-10
-└── mesocycle-3/
+├── mesocycle-3/
     ├── overview.md
     └── week-11 ... week-15
+└── mesocycle-4/
+    ├── overview.md
+    └── week-16 ... week-20
 ```
 
 ---
@@ -87,4 +92,4 @@ clients/tatyana-karmanova/
 tatyana-karmanova
 ```
 
-Текущая программа: `mesocycle-3/week-15.md`
+Текущая программа: `mesocycle-4/week-16.md`
