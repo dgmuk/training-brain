@@ -14,7 +14,7 @@
 | `valeriy-lysyh` | Валерий | Лысых Валерий | Сила и масса | 🟢 Мезо 5, Нед 23 | 2026-06-01 | [[valeriy-lysyh/README]] |
 | `aleksandr-vladimirov` | Александр | Владимиров Александр | Набор массы, умеренная сила, тонус | 🟡 Мезо 1, Нед 4 (watch) | 2026-06-23 | [[aleksandr-vladimirov/README]] |
 | `aziz-tursunmatov` | Азиз | Азиз Турсунматов | Набор мышечной массы | 🟢 Мезо 2, Нед 9 (spine-safe) | 2026-06-29 | [[aziz-tursunmatov/README]] |
-| `ekaterina-funtova` | Екатерина | Фунтова Екатерина | Комфорт / тонус (comfort_bank) | 🟢 Мезо 2, Нед 8 (W4) | 2026-07-18 | [[ekaterina-funtova/README]] |
+| `ekaterina-funtova` | Екатерина | Фунтова Екатерина | Комфорт / тонус (comfort_bank) | 🟢 Мезо 3, Нед 9: 1 тренировка 2026-11-21; далее 2/нед | 2026-07-18 | [[ekaterina-funtova/README]] |
 | `tatyana-karmanova` | Татьяна | Карманова Татьяна | Похудение / % жира (soft progression) | 🟢 Мезо 4, Нед 17 | 2026-07-18 | [[tatyana-karmanova/README]] |
 
 > **Канон папок:** [[STRUCTURE]]. Не создавать `program/` и кириллические пути.  
@@ -87,7 +87,7 @@
 
 2. Если YAML нет, искать в тексте
    → заголовок «# Неделя N» даёт N
-   → блок «**Период:** YYYY-MM-DD — YYYY-MM-DD» даёт диапазон дат
+   → блок «**Период:** YYYY-MM-DD - YYYY-MM-DD» даёт диапазон дат
 
 3. Открыть в папке клиента mesocycle-N/overview.md
    → сверить план мезоцикла со статусами недель
